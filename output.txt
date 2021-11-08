@@ -1,0 +1,1001 @@
+Container is store 1000 shapes:
+Objective:CXWXpEXTsrquKAVYsMzieYqxnfhWP popularity = 74.2  year = 1920, inheritance = interface, Function = 66.20689655172414
+Procedural:mCkMFCuNSSfQetC popularity = 90.59  year = 1996  abstract_type = True, Perimeter = 133.06666666666666
+Procedural:cLBMIdnfAnTSRjKOYUJO popularity = 19.79  year = 1947  abstract_type = True, Perimeter = 97.35
+Objective:gsbsfviqFLxDHbVcpwVjblLoDVJ popularity = 34.1  year = 1902, typization = dynamic, lazy count = True, Function = 70.44444444444444
+Objective:b popularity = 93.02  year = 1940, inheritance = single, Function = 1940.0
+Objective:PsLBIaofDCkIroMqqZRzgOznyxS popularity = 22.52  year = 1977, inheritance = multiple, Function = 73.22222222222223
+Objective:mWKgFsTlKGjmCjgcMGhGMZNxHS popularity = 18.4  year = 1985, typization = dynamic, lazy count = True, Function = 76.34615384615384
+Objective:hO popularity = 62.66  year = 2014, inheritance = multiple, Function = 1007.0
+Objective:SbZuZkmDJSrxaT popularity = 94.51  year = 1935, inheritance = multiple, Function = 138.21428571428572
+Objective:zBIpsVyVq popularity = 50.09  year = 1917, inheritance = interface, Function = 213.0
+Objective:cwP popularity = 33.15  year = 1939, inheritance = interface, Function = 646.3333333333334
+Objective:JkyGOMwFszAsWNgAXJLAwLULX popularity = 79.46  year = 1939, inheritance = multiple, Function = 77.56
+Objective:AM popularity = 65.88  year = 1987, inheritance = interface, Function = 993.5
+Procedural:qJYA popularity = 61.52  year = 1977  abstract_type = True, Perimeter = 494.25
+Procedural:OrnUBCifvMnoagNCXHTFUtfwRiX popularity = 28.15  year = 1959  abstract_type = True, Perimeter = 72.55555555555556
+Procedural:zXqMgizcAjmtXkzUoQmJwKGseEgrWD popularity = 61.86  year = 1957  abstract_type = True, Perimeter = 65.23333333333333
+Objective:ZdMSrlTLxyRzKWoLJUej popularity = 88.2  year = 1928, inheritance = multiple, Function = 96.4
+Objective:pQAhPFrmWGycaAYHGE popularity = 23.04  year = 1991, inheritance = single, Function = 110.61111111111111
+Objective:PQoKH popularity = 83.96  year = 1987, typization = strict, lazy count = True, Function = 397.4
+Objective:eklCK popularity = 60.85  year = 2018, typization = strict, lazy count = True, Function = 403.6
+Objective:YxQFemgrjoyDUnEnDrY popularity = 11.98  year = 1947, inheritance = interface, Function = 102.47368421052632
+Objective:vxFdzoCySDDCK popularity = 0.59  year = 2000, typization = strict, lazy count = True, Function = 153.84615384615384
+Objective:pZqWnKCOqrRqBR popularity = 66.16  year = 2008, typization = dynamic, lazy count = True, Function = 143.42857142857142
+Objective:UjnceKtihFPnDrnBkdaDrUu popularity = 93.9  year = 1999, typization = dynamic, lazy count = True, Function = 86.91304347826087
+Objective:jVyoEaARjATlfPRbOuSTzngYO popularity = 85.65  year = 1904, inheritance = interface, Function = 76.16
+Procedural:ukRSvXdfixTF popularity = 84.94  year = 1945  abstract_type = True, Perimeter = 162.08333333333334
+Objective:XYzsLG popularity = 11.14  year = 1971, inheritance = interface, Function = 328.5
+Objective:WIsUtpIOCCMpiZOEvvxykPJRbqz popularity = 12.36  year = 1998, inheritance = interface, Function = 74.0
+Objective:wnfNxllEjVcPD popularity = 91.66  year = 1919, typization = dynamic, lazy count = True, Function = 147.6153846153846
+Procedural:pJWmMFaYjuQsOcZiAO popularity = 78.15  year = 1917  abstract_type = True, Perimeter = 106.5
+Objective:DmEScgTIuiQPT popularity = 33.09  year = 1968, inheritance = single, Function = 151.3846153846154
+Objective:HopViJISRVZWHJVcRyhH popularity = 47.57  year = 1964, typization = dynamic, lazy count = True, Function = 98.2
+Procedural:qxXYh popularity = 77.78  year = 1913  abstract_type = True, Perimeter = 382.6
+Objective:qvtpmPmHDdPxCVlhzfXs popularity = 84.63  year = 1942, inheritance = single, Function = 97.1
+Objective:zGTXmGiXTqVywXBfTrPECiGtX popularity = 66.16  year = 1997, inheritance = single, Function = 79.88
+Objective:oAjUqsn popularity = 90.35  year = 1922, inheritance = interface, Function = 274.57142857142856
+Procedural:vsOPJIcrmaZ popularity = 37.71  year = 2005  abstract_type = True, Perimeter = 182.27272727272728
+Procedural:DPVRjqoihIRvEbnFqqMcYk popularity = 60.12  year = 1923  abstract_type = True, Perimeter = 87.4090909090909
+Procedural:CAxjcfZubSASLaRoOXGOWI popularity = 52.58  year = 2011  abstract_type = True, Perimeter = 91.4090909090909
+Objective:NPCNmwXzpHxtGw popularity = 26.84  year = 1904, inheritance = multiple, Function = 136.0
+Objective:KuZiUNFjCMbeeeqwxCZDiadQEUZBWu popularity = 72.98  year = 1938, typization = strict, lazy count = True, Function = 64.6
+Objective:NKq popularity = 74.37  year = 2018, inheritance = single, Function = 672.6666666666666
+Objective:UcGVjnm popularity = 16.08  year = 2008, typization = dynamic, lazy count = True, Function = 286.85714285714283
+Objective:lpVLdFodlUQMFIkKWxog popularity = 11.85  year = 1932, inheritance = single, Function = 96.6
+Objective:llRIlO popularity = 75.94  year = 2014, typization = strict, lazy count = True, Function = 335.6666666666667
+Objective:HCNBXi popularity = 45.19  year = 2004, inheritance = interface, Function = 334.0
+Procedural:spzwHldWyiXUmDItertjOHQjdTQguW popularity = 99.71  year = 1925  abstract_type = True, Perimeter = 64.16666666666667
+Objective:Ndi popularity = 85.08  year = 1978, typization = dynamic, lazy count = True, Function = 659.3333333333334
+Procedural:aOqwHGbIHIveZEskNUylJXARV popularity = 19.55  year = 1963  abstract_type = True, Perimeter = 78.52
+Procedural:aJcBMLmWsdrGyqcbHtRav popularity = 91.96  year = 1991  abstract_type = True, Perimeter = 94.80952380952381
+Objective:WWfvqVlmlFsUdsHRheOSb popularity = 28.71  year = 1998, typization = dynamic, lazy count = True, Function = 95.14285714285714
+Objective:sRByABzAXx popularity = 80.06  year = 1991, inheritance = interface, Function = 199.1
+Objective:fEYOBpHRsmCXVsDrTQPm popularity = 13.22  year = 2010, inheritance = multiple, Function = 100.5
+Procedural:hcWERyhZODCiRtWVHgvpbZGxjxx popularity = 97.28  year = 2007  abstract_type = True, Perimeter = 74.33333333333333
+Procedural:VDDBQWDsR popularity = 19.97  year = 1918  abstract_type = True, Perimeter = 213.11111111111111
+Procedural:jVtgNLnDpfaSSkA popularity = 82.0  year = 1929  abstract_type = True, Perimeter = 128.6
+Objective:CPFrChlkxKLZvYRjnz popularity = 21.05  year = 1992, inheritance = interface, Function = 110.66666666666667
+Procedural:GFtrUBXVLnAfOadAPsVfkCEiCGrmdG popularity = 56.01  year = 2021  abstract_type = True, Perimeter = 67.36666666666666
+Objective:HCmKzjogIFmcOz popularity = 80.82  year = 1965, inheritance = single, Function = 140.35714285714286
+Procedural:VTFAUYJyJqEHbVgF popularity = 56.12  year = 1964  abstract_type = True, Perimeter = 122.75
+Procedural:m popularity = 79.15  year = 1943  abstract_type = True, Perimeter = 1943.0
+Procedural:biyseiRuWGkMJySroLRFqBdH popularity = 26.99  year = 1971  abstract_type = True, Perimeter = 82.125
+Objective:sTcNDVXmgPthzDIRr popularity = 55.22  year = 1954, inheritance = multiple, Function = 114.94117647058823
+Procedural:hRz popularity = 88.56  year = 1982  abstract_type = True, Perimeter = 660.6666666666666
+Procedural:SUHQCIA popularity = 11.22  year = 1917  abstract_type = True, Perimeter = 273.85714285714283
+Objective:qBEhpN popularity = 90.49  year = 1991, typization = strict, lazy count = True, Function = 331.8333333333333
+Procedural:gTVUtqEnYZpSJfQaCmoqACbWOwBTJr popularity = 31.17  year = 1907  abstract_type = True, Perimeter = 63.56666666666667
+Procedural:QLDZRanep popularity = 36.73  year = 1954  abstract_type = True, Perimeter = 217.11111111111111
+Objective:XxJuNLhWKAhZwTqlrXMoBjTcuMgCH popularity = 59.63  year = 1964, typization = strict, lazy count = True, Function = 67.72413793103448
+Objective:aZiXeuZRAAsZmgxijWiuRYb popularity = 99.2  year = 1966, typization = dynamic, lazy count = True, Function = 85.47826086956522
+Procedural:wDGbQWNIXPWopzJvzBouJFyOUl popularity = 1.0  year = 1982  abstract_type = True, Perimeter = 76.23076923076923
+Objective:guADoQmhoQZdbfDd popularity = 13.4  year = 1981, inheritance = interface, Function = 123.8125
+Objective:nZnFqjlyaYUjaToAZEuVaSkInwewS popularity = 74.54  year = 1911, typization = strict, lazy count = True, Function = 65.89655172413794
+Procedural:TwDKOUCcpozlfEGgVpEa popularity = 40.83  year = 1979  abstract_type = True, Perimeter = 98.95
+Objective:zmyazmIoSkWR popularity = 40.54  year = 1934, typization = strict, lazy count = True, Function = 161.16666666666666
+Procedural:IKEE popularity = 66.39  year = 2006  abstract_type = True, Perimeter = 501.5
+Procedural:IymcdoTmFuCmsvEbB popularity = 44.62  year = 1908  abstract_type = True, Perimeter = 112.23529411764706
+Objective:GUANXjXuLPufqg popularity = 52.43  year = 1943, typization = strict, lazy count = True, Function = 138.78571428571428
+Objective:AzaPvAZQtDUbfz popularity = 74.7  year = 1900, typization = dynamic, lazy count = True, Function = 135.71428571428572
+Objective:kgzaJYKSBfqsuMkfIpKl popularity = 5.01  year = 2018, typization = strict, lazy count = True, Function = 100.9
+Procedural:XwAokAEdT popularity = 19.12  year = 1975  abstract_type = True, Perimeter = 219.44444444444446
+Objective:BMMotZOXNWg popularity = 14.06  year = 1916, inheritance = interface, Function = 174.1818181818182
+Objective:hkLowKULTAUdeVCQfbTYbOvKENb popularity = 61.99  year = 2004, typization = dynamic, lazy count = True, Function = 74.22222222222223
+Objective:TqConMoQaswRmOiNMdQPxRWOb popularity = 97.31  year = 2001, inheritance = single, Function = 80.04
+Objective:ilqpvbxkcyIfO popularity = 88.75  year = 2011, typization = strict, lazy count = True, Function = 154.69230769230768
+Objective:ebNZ popularity = 78.56  year = 1949, typization = dynamic, lazy count = True, Function = 487.25
+Objective:HgJKLPEAOyn popularity = 69.9  year = 1911, inheritance = single, Function = 173.72727272727272
+Procedural:ZRXpJQQFoXd popularity = 67.36  year = 1996  abstract_type = True, Perimeter = 181.45454545454547
+Objective:RSYkfckgvJ popularity = 16.78  year = 2008, inheritance = interface, Function = 200.8
+Procedural:yMrTDAyNMtzLrBfIfqZPAl popularity = 31.2  year = 1911  abstract_type = True, Perimeter = 86.86363636363636
+Objective:RpWlijihMLvKSCkeCmukREqb popularity = 24.81  year = 1954, typization = dynamic, lazy count = True, Function = 81.41666666666667
+Objective:SbaJMKvBjTANjGNhdoQrhFgKW popularity = 86.18  year = 1958, typization = dynamic, lazy count = True, Function = 78.32
+Objective:Xwogtf popularity = 2.03  year = 1943, typization = strict, lazy count = True, Function = 323.8333333333333
+Objective:QvRgSs popularity = 68.25  year = 1916, typization = strict, lazy count = True, Function = 319.3333333333333
+Objective:pzyTpDzxZTdlu popularity = 98.85  year = 1979, inheritance = interface, Function = 152.23076923076923
+Procedural:TnPhvhmpg popularity = 98.38  year = 1979  abstract_type = True, Perimeter = 219.88888888888889
+Procedural:fmkaRJGKUiELI popularity = 75.24  year = 1921  abstract_type = True, Perimeter = 147.76923076923077
+Procedural:rpMjkTV popularity = 92.0  year = 1966  abstract_type = True, Perimeter = 280.85714285714283
+Objective:JlVedxSiZpYpAYcaan popularity = 1.78  year = 1977, typization = dynamic, lazy count = True, Function = 109.83333333333333
+Procedural:ejxH popularity = 85.44  year = 1974  abstract_type = True, Perimeter = 493.5
+Procedural:xhQioWVFWZIcJmNDPBgSwoOuFgJtS popularity = 55.62  year = 1976  abstract_type = True, Perimeter = 68.13793103448276
+Objective:xqFIiQdH popularity = 65.32  year = 1914, inheritance = interface, Function = 239.25
+Objective:RAaxjcYvPjZJSvmKOIupWFJImtVM popularity = 80.87  year = 1934, typization = dynamic, lazy count = True, Function = 69.07142857142857
+Procedural:o popularity = 13.28  year = 1987  abstract_type = True, Perimeter = 1987.0
+Objective:nTbNxNGKzDggANXoMGjoDodOhIZNyP popularity = 40.37  year = 1986, typization = strict, lazy count = True, Function = 66.2
+Procedural:RrjjLqIGSsakKlgsQUWfFeQR popularity = 37.94  year = 2001  abstract_type = True, Perimeter = 83.375
+Objective:ZKh popularity = 54.08  year = 1963, typization = strict, lazy count = True, Function = 654.3333333333334
+Objective:BFKvYPeIVeUAgjPKphlHzSpFK popularity = 76.9  year = 1927, typization = strict, lazy count = True, Function = 77.08
+Objective:PRMHdChIhLLXNtILKqFSZDSWb popularity = 14.64  year = 2018, inheritance = interface, Function = 80.72
+Procedural:yFuqcoxAqcZpteYMINLzTcr popularity = 23.23  year = 1999  abstract_type = True, Perimeter = 86.91304347826087
+Objective:DkzZVNJSrcauEcQ popularity = 61.16  year = 1973, inheritance = multiple, Function = 131.53333333333333
+Procedural:lfunJkbtS popularity = 27.36  year = 1963  abstract_type = True, Perimeter = 218.11111111111111
+Procedural:UaDgAHX popularity = 86.98  year = 1919  abstract_type = True, Perimeter = 274.14285714285717
+Objective:ldUookixUIZE popularity = 39.43  year = 1938, typization = dynamic, lazy count = True, Function = 161.5
+Objective:aAjuzAreJKDanNNPmABsUK popularity = 66.8  year = 1984, typization = dynamic, lazy count = True, Function = 90.18181818181819
+Procedural:WA popularity = 80.49  year = 2010  abstract_type = True, Perimeter = 1005.0
+Procedural:zrvgOKFjM popularity = 48.42  year = 2001  abstract_type = True, Perimeter = 222.33333333333334
+Objective:FMLQExIrqfzdXRQglo popularity = 70.21  year = 2016, typization = strict, lazy count = True, Function = 112.0
+Objective:KmNCZBVJeDIyTAia popularity = 21.58  year = 1976, typization = dynamic, lazy count = True, Function = 123.5
+Objective:zVjA popularity = 59.45  year = 2004, inheritance = single, Function = 501.0
+Procedural:WOHURKqoLgDnODgYOZJoV popularity = 84.46  year = 1933  abstract_type = True, Perimeter = 92.04761904761905
+Objective:ylB popularity = 21.61  year = 1942, typization = dynamic, lazy count = True, Function = 647.3333333333334
+Objective:SlsuKEnhupJdpvN popularity = 98.72  year = 1980, typization = dynamic, lazy count = True, Function = 132.0
+Objective:tdUheZIzpPwoQPThpJOBzqdsqYilYX popularity = 44.94  year = 2003, typization = dynamic, lazy count = True, Function = 66.76666666666667
+Procedural:HcZKafhVJgyuPWF popularity = 12.31  year = 1968  abstract_type = True, Perimeter = 131.2
+Procedural:aUeHwKPbewtQGaDFMH popularity = 57.63  year = 1962  abstract_type = True, Perimeter = 109.0
+Procedural:FS popularity = 8.91  year = 1951  abstract_type = True, Perimeter = 975.5
+Objective:OM popularity = 63.51  year = 1941, inheritance = multiple, Function = 970.5
+Objective:cDyRFwXoer popularity = 42.43  year = 1950, inheritance = multiple, Function = 195.0
+Procedural:MJzRWMrzkQVbQprvU popularity = 94.67  year = 1959  abstract_type = True, Perimeter = 115.23529411764706
+Objective:jdrRqvfWOtbqoWtBEOtHA popularity = 26.25  year = 1980, inheritance = multiple, Function = 94.28571428571429
+Objective:XFAay popularity = 65.23  year = 1941, typization = dynamic, lazy count = True, Function = 388.2
+Procedural:RGgtTaPoOLUupdHYtmcwDbzpZNE popularity = 55.23  year = 1944  abstract_type = True, Perimeter = 72.0
+Objective:ssROuuNsUvGvEKQBxlR popularity = 67.02  year = 1973, typization = strict, lazy count = True, Function = 103.84210526315789
+Objective:mPweGFnMDv popularity = 40.33  year = 1976, inheritance = single, Function = 197.6
+Procedural:QgstkjJDJQc popularity = 99.29  year = 1987  abstract_type = True, Perimeter = 180.63636363636363
+Objective:WTAaAMmcYdlBcjTPrZtXJgNdopP popularity = 46.59  year = 1911, typization = dynamic, lazy count = True, Function = 70.77777777777777
+Objective:sfyqUpEidTBlWtBIQ popularity = 51.01  year = 1998, typization = dynamic, lazy count = True, Function = 117.52941176470588
+Objective:PDuf popularity = 90.03  year = 1934, inheritance = single, Function = 483.5
+Objective:iQiOtGMSjLvcqlAQSTLbiy popularity = 40.09  year = 1924, typization = dynamic, lazy count = True, Function = 87.45454545454545
+Objective:mjVIGqPPUILHTMTjEOzqxGOaDtQk popularity = 72.22  year = 1999, inheritance = interface, Function = 71.39285714285714
+Procedural:Z popularity = 51.98  year = 1952  abstract_type = True, Perimeter = 1952.0
+Procedural:XdWRzMUVfFVB popularity = 7.98  year = 1933  abstract_type = True, Perimeter = 161.08333333333334
+Procedural:OqTG popularity = 36.32  year = 1978  abstract_type = True, Perimeter = 494.5
+Procedural:FcfnUEVeCHhZvvymtFWioSTyW popularity = 66.61  year = 1962  abstract_type = True, Perimeter = 78.48
+Objective:hbbBfhQxqzTXuSMFPfXZCGDSo popularity = 82.91  year = 1947, typization = dynamic, lazy count = True, Function = 77.88
+Procedural:VeXPobkvxgrbcRDFGFfIZe popularity = 99.89  year = 1961  abstract_type = True, Perimeter = 89.13636363636364
+Objective:zeQtTlfsgRnokqwSpsHiMFwEZnbw popularity = 14.68  year = 1943, inheritance = multiple, Function = 69.39285714285714
+Procedural:rCalMrQTAunofZyPokIkEEX popularity = 64.57  year = 1940  abstract_type = True, Perimeter = 84.34782608695652
+Procedural:ZoMAdiHuywLvnSsQzcsBpxgTOD popularity = 48.91  year = 1925  abstract_type = True, Perimeter = 74.03846153846153
+Objective:jbPWfHozcFVYlc popularity = 64.86  year = 1915, inheritance = single, Function = 136.78571428571428
+Objective:AYnEzZNUu popularity = 45.43  year = 1903, inheritance = single, Function = 211.44444444444446
+Procedural:ZfhIm popularity = 22.46  year = 1979  abstract_type = True, Perimeter = 395.8
+Procedural:uNFBnFTCoDeGqgKT popularity = 59.24  year = 1946  abstract_type = True, Perimeter = 121.625
+Procedural:Lev popularity = 37.72  year = 1967  abstract_type = True, Perimeter = 655.6666666666666
+Procedural:sCpiz popularity = 62.94  year = 2021  abstract_type = True, Perimeter = 404.2
+Procedural:MMKUqg popularity = 59.16  year = 1932  abstract_type = True, Perimeter = 322.0
+Objective:PovYWXKWCcLHZx popularity = 48.93  year = 1981, inheritance = multiple, Function = 141.5
+Procedural:DUXMiBFibBFg popularity = 29.98  year = 1993  abstract_type = True, Perimeter = 166.08333333333334
+Objective:WoweTgzhrOTZiroOw popularity = 52.82  year = 1959, inheritance = single, Function = 115.23529411764706
+Procedural:RfE popularity = 72.59  year = 2005  abstract_type = True, Perimeter = 668.3333333333334
+Objective:eVgnLqyBvBl popularity = 83.41  year = 1926, typization = dynamic, lazy count = True, Function = 175.0909090909091
+Procedural:DhYlyoDplEQJWqanMibkdBTqndYFlK popularity = 75.59  year = 2012  abstract_type = True, Perimeter = 67.06666666666666
+Objective:vKhwpeOF popularity = 44.18  year = 2015, inheritance = multiple, Function = 251.875
+Objective:lAvPrAQGmXdLxLbLvCYXIG popularity = 73.78  year = 1905, inheritance = single, Function = 86.5909090909091
+Procedural:UJIGMUehlpTr popularity = 10.87  year = 1929  abstract_type = True, Perimeter = 160.75
+Objective:jgUKsjYkueeUrqskEvXC popularity = 76.9  year = 2014, inheritance = single, Function = 100.7
+Procedural:BtEoyzRYgwGwYQWjKdtYzKuI popularity = 67.02  year = 2020  abstract_type = True, Perimeter = 84.16666666666667
+Objective:hrxtPDHMhUayHvgsSHhGNDgscZfWYH popularity = 4.82  year = 1949, typization = dynamic, lazy count = True, Function = 64.96666666666667
+Objective:jiueATTjlEgx popularity = 58.1  year = 1943, inheritance = interface, Function = 161.91666666666666
+Objective:acXBAmJex popularity = 94.51  year = 1903, typization = strict, lazy count = True, Function = 211.44444444444446
+Procedural:UHjyBuAMRfkAbxFzEyeDubX popularity = 2.85  year = 1965  abstract_type = True, Perimeter = 85.43478260869566
+Procedural:uEkcRCb popularity = 21.44  year = 1909  abstract_type = True, Perimeter = 272.7142857142857
+Procedural:gAk popularity = 89.36  year = 1947  abstract_type = True, Perimeter = 649.0
+Procedural:SEMXcjrVwhevNdqnpI popularity = 10.32  year = 1981  abstract_type = True, Perimeter = 110.05555555555556
+Procedural:qJSOXIHPNfoAvxoxvNdiRrSSDPNCzx popularity = 26.15  year = 1930  abstract_type = True, Perimeter = 64.33333333333333
+Objective:CRUyDWqJPLJiSQgS popularity = 47.49  year = 1917, inheritance = interface, Function = 119.8125
+Objective:WAmvccRKITvzlIabQp popularity = 14.39  year = 1973, inheritance = interface, Function = 109.61111111111111
+Objective:mIMqsQjIgPUoEKSHqfyfXbPlLA popularity = 73.21  year = 1956, typization = dynamic, lazy count = True, Function = 75.23076923076923
+Objective:iRRuxZpWkCaziisJjFFKphcALKhJpd popularity = 22.99  year = 2006, typization = dynamic, lazy count = True, Function = 66.86666666666666
+Objective:JepjHeUcQzwRgwk popularity = 62.97  year = 1952, typization = dynamic, lazy count = True, Function = 130.13333333333333
+Procedural:XbLKCfOJZjEtYVICCPtElyt popularity = 70.16  year = 2007  abstract_type = True, Perimeter = 87.26086956521739
+Objective:CCbqUJBJORGgOayFZneQXay popularity = 69.66  year = 1979, typization = dynamic, lazy count = True, Function = 86.04347826086956
+Objective:fRZuJRJYCogkmqdMApoAEImGZe popularity = 22.1  year = 1994, typization = dynamic, lazy count = True, Function = 76.6923076923077
+Procedural:EeLqXwNwBGgvv popularity = 24.45  year = 1992  abstract_type = True, Perimeter = 153.23076923076923
+Procedural:FYhESwcgtXXjOIMvDfe popularity = 13.45  year = 2014  abstract_type = True, Perimeter = 106.0
+Objective:MnfGsTN popularity = 89.76  year = 2000, inheritance = interface, Function = 285.7142857142857
+Objective:SJWFJu popularity = 69.74  year = 1996, typization = dynamic, lazy count = True, Function = 332.6666666666667
+Objective:ZhmQzsjaLntXPcavaCci popularity = 97.35  year = 1910, typization = strict, lazy count = True, Function = 95.5
+Procedural:tLZOplcTAZYZUEsM popularity = 34.81  year = 1901  abstract_type = True, Perimeter = 118.8125
+Procedural:nzskkVRskNlF popularity = 98.4  year = 1931  abstract_type = True, Perimeter = 160.91666666666666
+Procedural:gZzgKwJWu popularity = 74.53  year = 1918  abstract_type = True, Perimeter = 213.11111111111111
+Objective:GLSEazXqhdCYUvQaPXGCw popularity = 40.04  year = 1910, inheritance = interface, Function = 90.95238095238095
+Objective:hghoyesFOidARosvthtGbuGFRO popularity = 35.02  year = 1983, inheritance = interface, Function = 76.26923076923077
+Objective:qzfLBZCcwPrIZXjsHoomUkZQun popularity = 85.82  year = 1963, inheritance = single, Function = 75.5
+Procedural:CBzRVUlIpqWPkV popularity = 64.8  year = 1957  abstract_type = True, Perimeter = 139.78571428571428
+Objective:kUCXjVIsMQnjBgHlqSJeXuf popularity = 64.97  year = 1950, inheritance = multiple, Function = 84.78260869565217
+Procedural:emz popularity = 98.57  year = 1955  abstract_type = True, Perimeter = 651.6666666666666
+Objective:vwANaLkUYbuwkqXnS popularity = 78.65  year = 1940, typization = strict, lazy count = True, Function = 114.11764705882354
+Objective:QquBgMImFqAYFQBqgjbHffImm popularity = 93.62  year = 1966, typization = dynamic, lazy count = True, Function = 78.64
+Objective:RkowbtoqScVJg popularity = 21.0  year = 1928, typization = strict, lazy count = True, Function = 148.30769230769232
+Objective:hZUkFa popularity = 27.06  year = 1939, typization = dynamic, lazy count = True, Function = 323.1666666666667
+Objective:OAMhyMpyIFfbYECexmoZnt popularity = 85.95  year = 1952, inheritance = single, Function = 88.72727272727273
+Objective:eNc popularity = 3.03  year = 1917, inheritance = multiple, Function = 639.0
+Objective:u popularity = 1.48  year = 2003, typization = strict, lazy count = True, Function = 2003.0
+Procedural:hwLmMPP popularity = 39.52  year = 1948  abstract_type = True, Perimeter = 278.2857142857143
+Objective:svgQjtROxPOSkrKizG popularity = 94.22  year = 1983, typization = dynamic, lazy count = True, Function = 110.16666666666667
+Objective:SPTxbNknF popularity = 75.17  year = 2004, typization = dynamic, lazy count = True, Function = 222.66666666666666
+Procedural:HtBscxOzqwQehCKapwbydx popularity = 65.91  year = 1944  abstract_type = True, Perimeter = 88.36363636363636
+Procedural:LevUAGMVHWwuUyBWQler popularity = 32.66  year = 1990  abstract_type = True, Perimeter = 99.5
+Procedural:AcxSfJkxPeXnqGtvSgx popularity = 95.2  year = 1939  abstract_type = True, Perimeter = 102.05263157894737
+Procedural:NBJTcZkt popularity = 72.88  year = 1985  abstract_type = True, Perimeter = 248.125
+Objective:gtrZGbHGjfoXwrCLl popularity = 40.17  year = 1960, typization = dynamic, lazy count = True, Function = 115.29411764705883
+Objective:s popularity = 59.12  year = 1984, typization = strict, lazy count = True, Function = 1984.0
+Procedural:xFGZ popularity = 22.68  year = 2015  abstract_type = True, Perimeter = 503.75
+Procedural:gQErGH popularity = 32.22  year = 1985  abstract_type = True, Perimeter = 330.8333333333333
+Objective:LN popularity = 66.74  year = 2007, typization = strict, lazy count = True, Function = 1003.5
+Procedural:RvFTfTkOHpo popularity = 58.56  year = 1978  abstract_type = True, Perimeter = 179.8181818181818
+Objective:boTVuIBeQBuPaTMHTwdSFNiNUpkio popularity = 45.51  year = 1911, typization = dynamic, lazy count = True, Function = 65.89655172413794
+Procedural:ubBrGGYtSlqMqmXIXHk popularity = 15.04  year = 1965  abstract_type = True, Perimeter = 103.42105263157895
+Objective:dgPuPxzpdJYOfGWXTMQbUvQQdMjW popularity = 25.49  year = 2007, inheritance = interface, Function = 71.67857142857143
+Objective:haWE popularity = 0.59  year = 1987, inheritance = single, Function = 496.75
+Procedural:PnodAhoyMmxzMiCzfzMKKoBuaMtR popularity = 16.13  year = 2011  abstract_type = True, Perimeter = 71.82142857142857
+Objective:wNaUytfcoyyZB popularity = 95.67  year = 1901, inheritance = single, Function = 146.23076923076923
+Procedural:cQOZfpXnSGKycamF popularity = 80.05  year = 1926  abstract_type = True, Perimeter = 120.375
+Objective:kjqBJrJnsLYP popularity = 95.28  year = 1977, typization = strict, lazy count = True, Function = 164.75
+Objective:yFYrFnKhhcKVkWnkbpYgrnzcioalp popularity = 75.08  year = 1987, inheritance = multiple, Function = 68.51724137931035
+Objective:feTZPYcXmwSBEUNPk popularity = 97.25  year = 1950, typization = strict, lazy count = True, Function = 114.70588235294117
+Objective:GVEVCTIihArGB popularity = 57.74  year = 1973, typization = dynamic, lazy count = True, Function = 151.76923076923077
+Objective:LcdwsThPWBzLMZSG popularity = 30.39  year = 1955, inheritance = interface, Function = 122.1875
+Procedural:cwKc popularity = 29.07  year = 1931  abstract_type = True, Perimeter = 482.75
+Procedural:thskZxiZZSVaWcsqa popularity = 81.25  year = 1991  abstract_type = True, Perimeter = 117.11764705882354
+Procedural:VmRiHJaZLDleqXWxlKU popularity = 9.6  year = 2020  abstract_type = True, Perimeter = 106.3157894736842
+Procedural:SOXmHQbNbBH popularity = 22.93  year = 1946  abstract_type = True, Perimeter = 176.9090909090909
+Objective:jbnVPpHtoxvITuf popularity = 65.86  year = 1938, typization = dynamic, lazy count = True, Function = 129.2
+Objective:xVVWtPvRcNmwjfccfN popularity = 24.44  year = 1974, inheritance = interface, Function = 109.66666666666667
+Procedural:qetGcVBXdPshGkLzFUzcQAVIWUmHKu popularity = 17.39  year = 1980  abstract_type = True, Perimeter = 66.0
+Objective:xpPzuhyUVeLepUylZqWLt popularity = 21.38  year = 1999, typization = strict, lazy count = True, Function = 95.19047619047619
+Objective:smkaovuFhfTRJxyvXdI popularity = 13.33  year = 1993, inheritance = multiple, Function = 104.89473684210526
+Procedural:VZlUliAbqRqrWnqpYJlywPKQQ popularity = 72.74  year = 1986  abstract_type = True, Perimeter = 79.44
+Objective:pyqbdYLhslCzwjtejs popularity = 33.14  year = 1970, inheritance = multiple, Function = 109.44444444444444
+Procedural:GZcBADHCPLMJFHBMGEcMPEcdB popularity = 54.48  year = 1950  abstract_type = True, Perimeter = 78.0
+Objective:AdORRjrkZxSzBdWQBWWyeb popularity = 26.59  year = 1924, typization = strict, lazy count = True, Function = 87.45454545454545
+Objective:Si popularity = 63.55  year = 1978, inheritance = multiple, Function = 989.0
+Objective:kVjLBpShpRjkNwOmfOjAUR popularity = 56.62  year = 1903, typization = strict, lazy count = True, Function = 86.5
+Objective:QfwE popularity = 48.08  year = 1913, typization = dynamic, lazy count = True, Function = 478.25
+Objective:zufzvEaKpeUoUkAykdpMxCFZ popularity = 5.92  year = 1984, typization = strict, lazy count = True, Function = 82.66666666666667
+Procedural:jaQGGfRssY popularity = 48.92  year = 1902  abstract_type = True, Perimeter = 190.2
+Procedural:FfosNtIHKICZEQjZzsg popularity = 47.45  year = 1910  abstract_type = True, Perimeter = 100.52631578947368
+Objective:MMNedKUtWeukZitJd popularity = 34.54  year = 1907, typization = strict, lazy count = True, Function = 112.17647058823529
+Objective:WulVTbeE popularity = 31.17  year = 1925, typization = strict, lazy count = True, Function = 240.625
+Procedural:umyfKjirrucAIMWXatrVAzfiWt popularity = 18.19  year = 1985  abstract_type = True, Perimeter = 76.34615384615384
+Procedural:cWzgNEDfVQYOt popularity = 98.24  year = 1970  abstract_type = True, Perimeter = 151.53846153846155
+Objective:fiAqKuzTdqdvnMIHf popularity = 45.0  year = 1924, typization = dynamic, lazy count = True, Function = 113.17647058823529
+Procedural:tgmjsvVcwrjsQTsroUhG popularity = 20.45  year = 1946  abstract_type = True, Perimeter = 97.3
+Objective:nwtViHhN popularity = 12.49  year = 1952, inheritance = multiple, Function = 244.0
+Procedural:LEqVbAFPaDzdF popularity = 52.67  year = 1946  abstract_type = True, Perimeter = 149.69230769230768
+Procedural:zeqRZoyNnYJ popularity = 1.72  year = 1924  abstract_type = True, Perimeter = 174.9090909090909
+Objective:JFlfFRDlVeOrneCmKyw popularity = 95.29  year = 2014, typization = dynamic, lazy count = True, Function = 106.0
+Procedural:AG popularity = 35.83  year = 1969  abstract_type = True, Perimeter = 984.5
+Objective:vrtKRPJkSoRjDqj popularity = 84.5  year = 1939, inheritance = multiple, Function = 129.26666666666668
+Procedural:gmu popularity = 0.82  year = 1933  abstract_type = True, Perimeter = 644.3333333333334
+Objective:LFaoYDVHwSEvYCBbluuehSxv popularity = 30.91  year = 1959, inheritance = single, Function = 81.625
+Procedural:ISiPuqIWmPyWaGRqnr popularity = 22.59  year = 1935  abstract_type = True, Perimeter = 107.5
+Objective:oMeEikgSziWvHfoSnMjm popularity = 27.65  year = 1947, typization = dynamic, lazy count = True, Function = 97.35
+Procedural:PWTTCG popularity = 65.86  year = 1958  abstract_type = True, Perimeter = 326.3333333333333
+Procedural:DKjnEaMzEooFHHeXlsh popularity = 54.54  year = 1965  abstract_type = True, Perimeter = 103.42105263157895
+Procedural:kbjssbSepzCwFSBmAlvyZAFEXCLV popularity = 88.09  year = 2003  abstract_type = True, Perimeter = 71.53571428571429
+Objective:vyv popularity = 39.0  year = 1901, inheritance = interface, Function = 633.6666666666666
+Objective:NMvRi popularity = 15.56  year = 2004, inheritance = single, Function = 400.8
+Procedural:JapKPsfZvGl popularity = 21.19  year = 1976  abstract_type = True, Perimeter = 179.63636363636363
+Objective:JfItENMNgEVSw popularity = 2.4  year = 1945, typization = dynamic, lazy count = True, Function = 149.6153846153846
+Objective:UslGDZZufDxcjdIObElMTwLGuuT popularity = 55.16  year = 1956, typization = strict, lazy count = True, Function = 72.44444444444444
+Procedural:WxbAU popularity = 94.37  year = 1989  abstract_type = True, Perimeter = 397.8
+Procedural:n popularity = 7.77  year = 1940  abstract_type = True, Perimeter = 1940.0
+Objective:pCiqFOojQtISXOn popularity = 8.84  year = 1942, inheritance = single, Function = 129.46666666666667
+Objective:jMyi popularity = 13.8  year = 1928, inheritance = single, Function = 482.0
+Objective:Kdvs popularity = 50.0  year = 1903, inheritance = interface, Function = 475.75
+Objective:XICqWiFzNtdUMoGGYvPvvrvU popularity = 92.35  year = 1995, inheritance = interface, Function = 83.125
+Objective:hRhhKkHtA popularity = 62.33  year = 1939, inheritance = interface, Function = 215.44444444444446
+Objective:lRMweQzqLEZZPNWm popularity = 56.86  year = 1977, typization = strict, lazy count = True, Function = 123.5625
+Objective:tOyiKiDn popularity = 62.09  year = 1953, inheritance = multiple, Function = 244.125
+Objective:fNMNUVOLL popularity = 35.5  year = 1960, inheritance = interface, Function = 217.77777777777777
+Objective:FU popularity = 19.82  year = 1915, typization = dynamic, lazy count = True, Function = 957.5
+Procedural:vNpQA popularity = 20.82  year = 1908  abstract_type = True, Perimeter = 381.6
+Objective:TdySgQGOqrbmuJubyJztZcbsIGT popularity = 10.99  year = 1986, inheritance = multiple, Function = 73.55555555555556
+Objective:fajRJdAYL popularity = 22.8  year = 1973, typization = strict, lazy count = True, Function = 219.22222222222223
+Objective:UTRJPUiwGcYJBslKrcbuIrqlT popularity = 87.17  year = 2001, typization = dynamic, lazy count = True, Function = 80.04
+Objective:NgYiGFxfaOeNKISzWsZLQSnqw popularity = 97.3  year = 1943, inheritance = interface, Function = 77.72
+Objective:vCORyQsMaVThlkTzbMqdueG popularity = 26.46  year = 2019, inheritance = interface, Function = 87.78260869565217
+Procedural:AOjib popularity = 78.94  year = 1977  abstract_type = True, Perimeter = 395.4
+Objective:gwioLpFl popularity = 57.31  year = 1929, typization = strict, lazy count = True, Function = 241.125
+Objective:ArrLb popularity = 20.85  year = 1994, typization = dynamic, lazy count = True, Function = 398.8
+Objective:JBiqGwdPRrOAzhAoGThixeDQZkEZrh popularity = 47.39  year = 2013, inheritance = multiple, Function = 67.1
+Procedural:dXjT popularity = 40.76  year = 1908  abstract_type = True, Perimeter = 477.0
+Objective:ypcpzdtBUrvknswTdlBsjm popularity = 35.27  year = 1919, inheritance = single, Function = 87.22727272727273
+Procedural:EATBnbZVxHWjOMRHBV popularity = 41.27  year = 1991  abstract_type = True, Perimeter = 110.61111111111111
+Objective:WXoeisFxzCzr popularity = 75.36  year = 1904, inheritance = multiple, Function = 158.66666666666666
+Objective:e popularity = 27.15  year = 2009, typization = strict, lazy count = True, Function = 2009.0
+Procedural:dZBdgmVBX popularity = 93.38  year = 1922  abstract_type = True, Perimeter = 213.55555555555554
+Objective:ptIhVC popularity = 85.43  year = 1965, inheritance = single, Function = 327.5
+Objective:u popularity = 44.17  year = 1946, typization = strict, lazy count = True, Function = 1946.0
+Procedural:Pvs popularity = 27.61  year = 1919  abstract_type = True, Perimeter = 639.6666666666666
+Objective:aJtaTUigjsLmXsayd popularity = 43.05  year = 2007, typization = dynamic, lazy count = True, Function = 118.05882352941177
+Objective:CyRVLUBcQQFTxLbBe popularity = 65.17  year = 1908, inheritance = interface, Function = 112.23529411764706
+Objective:BFV popularity = 91.96  year = 1955, typization = dynamic, lazy count = True, Function = 651.6666666666666
+Procedural:fvuSAKNtOMkJj popularity = 53.01  year = 1988  abstract_type = True, Perimeter = 152.92307692307693
+Objective:WdrGnJAEdhapiDLnasvavm popularity = 46.75  year = 2016, typization = strict, lazy count = True, Function = 91.63636363636364
+Objective:SDhsuSBrtkTiKwxjnYPOj popularity = 16.09  year = 2004, inheritance = multiple, Function = 95.42857142857143
+Objective:XsVdrwgANrcbnhOZUDhocFu popularity = 39.15  year = 1943, inheritance = interface, Function = 84.47826086956522
+Procedural:sEaINLBHembYqogtElUHNvHnkJIe popularity = 94.37  year = 1990  abstract_type = True, Perimeter = 71.07142857142857
+Objective:lRCxIxPEiEcYCTpNNFNpaUreSU popularity = 37.3  year = 1921, typization = dynamic, lazy count = True, Function = 73.88461538461539
+Procedural:fckkWonhCmFzZxlCMlf popularity = 60.27  year = 1951  abstract_type = True, Perimeter = 102.6842105263158
+Objective:KshumfgJdFtrTeKTIjsOYh popularity = 82.38  year = 1992, typization = dynamic, lazy count = True, Function = 90.54545454545455
+Objective:ownYiaQhRyi popularity = 81.67  year = 1905, inheritance = single, Function = 173.1818181818182
+Objective:MIDmd popularity = 94.21  year = 1990, inheritance = multiple, Function = 398.0
+Objective:CesNBJHQaaaxLLarscVnPDO popularity = 10.02  year = 1946, inheritance = interface, Function = 84.6086956521739
+Objective:IWuDrImYI popularity = 70.14  year = 1908, inheritance = single, Function = 212.0
+Objective:zxqTgFkLudbEikWb popularity = 0.89  year = 2019, inheritance = multiple, Function = 126.1875
+Procedural:RtxhuqcZcJZYxRpDYzmvxwGZ popularity = 56.37  year = 1955  abstract_type = True, Perimeter = 81.45833333333333
+Procedural:BKYqbvcHacSVEYSXrfdsCxWJoBN popularity = 60.95  year = 1991  abstract_type = True, Perimeter = 73.74074074074075
+Procedural:XCTCjkCPFqqVQTsaCf popularity = 27.69  year = 1943  abstract_type = True, Perimeter = 107.94444444444444
+Objective:zvhcsBiRscKfCXIunyUbkqa popularity = 7.89  year = 1933, inheritance = multiple, Function = 84.04347826086956
+Objective:vDicRCFTVVONFfNjiFiALzEv popularity = 32.43  year = 1903, inheritance = single, Function = 79.29166666666667
+Procedural:MhwhpAyx popularity = 38.64  year = 1916  abstract_type = True, Perimeter = 239.5
+Procedural:jNHDJynwYqBpNHQZnYgoqchMmFmZN popularity = 55.47  year = 1939  abstract_type = True, Perimeter = 66.86206896551724
+Objective:aTBzFZuKuXFrTiVGGBrAFnA popularity = 41.69  year = 2010, inheritance = multiple, Function = 87.3913043478261
+Objective:VbxcKvE popularity = 68.87  year = 1971, typization = strict, lazy count = True, Function = 281.57142857142856
+Procedural:cdvYfpHJGYbMBhCCmfQaxCplnYo popularity = 72.97  year = 1978  abstract_type = True, Perimeter = 73.25925925925925
+Objective:Nculqa popularity = 75.29  year = 1900, typization = strict, lazy count = True, Function = 316.6666666666667
+Objective:hEzHsXwNqPnMcTCcL popularity = 62.22  year = 1928, inheritance = interface, Function = 113.41176470588235
+Procedural:bRAcCVIxoVwHGSCIZfcm popularity = 59.68  year = 1947  abstract_type = True, Perimeter = 97.35
+Objective:LSJhkziwKIkmdJadfeUQWATsU popularity = 74.52  year = 1932, typization = strict, lazy count = True, Function = 77.28
+Procedural:iZPIErmWNPhOb popularity = 51.34  year = 1972  abstract_type = True, Perimeter = 151.69230769230768
+Objective:OvGxc popularity = 95.4  year = 1911, inheritance = interface, Function = 382.2
+Objective:rtPGUW popularity = 90.74  year = 1948, typization = strict, lazy count = True, Function = 324.6666666666667
+Procedural:qYDjoPJbUye popularity = 94.64  year = 2013  abstract_type = True, Perimeter = 183.0
+Objective:naSlJKc popularity = 38.8  year = 1993, typization = strict, lazy count = True, Function = 284.7142857142857
+Objective:t popularity = 48.94  year = 1907, inheritance = interface, Function = 1907.0
+Procedural:igJpoNxWpMWGZILJRYoanXLCpv popularity = 61.79  year = 1953  abstract_type = True, Perimeter = 75.11538461538461
+Objective:TYFCQzwDAKJTJVJCuWk popularity = 24.19  year = 2013, inheritance = interface, Function = 105.94736842105263
+Procedural:G popularity = 65.24  year = 1931  abstract_type = True, Perimeter = 1931.0
+Objective:USiSQsMUsqyMgjhanAGcayBDtVFOI popularity = 68.62  year = 1950, inheritance = interface, Function = 67.24137931034483
+Procedural:mzKAuoyiGpdR popularity = 77.41  year = 1958  abstract_type = True, Perimeter = 163.16666666666666
+Objective:IaHsqD popularity = 20.71  year = 1978, typization = strict, lazy count = True, Function = 329.6666666666667
+Procedural:UMf popularity = 59.03  year = 2001  abstract_type = True, Perimeter = 667.0
+Objective:KmdmTRgbRMxeICunWLgTzEOkvBUO popularity = 99.65  year = 2014, typization = strict, lazy count = True, Function = 71.92857142857143
+Procedural:eRAxaKFVrRPJDDylwq popularity = 6.82  year = 1926  abstract_type = True, Perimeter = 107.0
+Objective:AyYLc popularity = 55.94  year = 1901, inheritance = interface, Function = 380.2
+Objective:oaxoLBE popularity = 29.14  year = 1954, inheritance = multiple, Function = 279.14285714285717
+Objective:SthfJuqinLBL popularity = 50.56  year = 1915, inheritance = interface, Function = 159.58333333333334
+Objective:KWFHBpuBiQEmBrjMy popularity = 56.22  year = 1933, typization = dynamic, lazy count = True, Function = 113.70588235294117
+Objective:OxmvsWIe popularity = 58.91  year = 2007, inheritance = interface, Function = 250.875
+Objective:axHtMi popularity = 44.02  year = 2003, inheritance = multiple, Function = 333.8333333333333
+Procedural:RejKzhtrUxjFOrCNKEsTHtDsdh popularity = 80.09  year = 1996  abstract_type = True, Perimeter = 76.76923076923077
+Procedural:SiZNYP popularity = 45.4  year = 1973  abstract_type = True, Perimeter = 328.8333333333333
+Objective:RuRl popularity = 89.22  year = 1981, typization = dynamic, lazy count = True, Function = 495.25
+Objective:etRTcyoLbKoVcsIlDMZraNo popularity = 47.79  year = 1931, typization = strict, lazy count = True, Function = 83.95652173913044
+Procedural:eeGAarNqKMELYrjLkrmotoX popularity = 3.58  year = 1922  abstract_type = True, Perimeter = 83.56521739130434
+Procedural:vGbBftFQ popularity = 10.29  year = 1923  abstract_type = True, Perimeter = 240.375
+Procedural:PrK popularity = 40.8  year = 1954  abstract_type = True, Perimeter = 651.3333333333334
+Procedural:gZqmYmKcuXzeOXErKRwaMlnBNK popularity = 62.99  year = 1946  abstract_type = True, Perimeter = 74.84615384615384
+Objective:mar popularity = 16.82  year = 1951, typization = strict, lazy count = True, Function = 650.3333333333334
+Objective:adhqeqdVdQfVjdwcFSvjXzOgXyq popularity = 14.3  year = 1935, typization = dynamic, lazy count = True, Function = 71.66666666666667
+Procedural:nYLpKwyWnxzqAajxYadrlOyRekgaap popularity = 3.11  year = 2019  abstract_type = True, Perimeter = 67.3
+Objective:FgGBPzupGSAeAAuladACUPAwhkJaRU popularity = 89.74  year = 1942, typization = strict, lazy count = True, Function = 64.73333333333333
+Procedural:bLHJcGvuME popularity = 67.65  year = 1939  abstract_type = True, Perimeter = 193.9
+Procedural:FjocmQsJvINNlObnBFAEA popularity = 35.26  year = 1996  abstract_type = True, Perimeter = 95.04761904761905
+Procedural:AndTqugSXKxQOutaBacjYFavHmW popularity = 29.22  year = 1961  abstract_type = True, Perimeter = 72.62962962962963
+Objective:rjagC popularity = 57.42  year = 2001, inheritance = interface, Function = 400.2
+Objective:iOnaOhXWbQrsz popularity = 83.66  year = 2015, inheritance = interface, Function = 155.0
+Procedural:aAxjt popularity = 63.64  year = 1975  abstract_type = True, Perimeter = 395.0
+Objective:QdVkxngcJgTTrekqAUXSyNaW popularity = 37.81  year = 1917, typization = strict, lazy count = True, Function = 79.875
+Objective:UYOCZVvLEkDYP popularity = 42.97  year = 1905, inheritance = single, Function = 146.53846153846155
+Procedural:nWGVJlyKZkAVZbhhpO popularity = 60.43  year = 1973  abstract_type = True, Perimeter = 109.61111111111111
+Objective:DwjlceMRnLsEEv popularity = 92.57  year = 1974, inheritance = single, Function = 141.0
+Objective:uTGrfsRWXBEHCvgZEkj popularity = 90.23  year = 2011, typization = strict, lazy count = True, Function = 105.84210526315789
+Objective:OqURcONPRlyUtILdmd popularity = 7.06  year = 1953, inheritance = interface, Function = 108.5
+Objective:uhROyS popularity = 1.0  year = 1907, inheritance = interface, Function = 317.8333333333333
+Objective:vrsgqxcbquYuxvCHUXUWysqG popularity = 12.72  year = 2012, typization = strict, lazy count = True, Function = 83.83333333333333
+Procedural:qWKgQYr popularity = 61.36  year = 1914  abstract_type = True, Perimeter = 273.42857142857144
+Procedural:NxfSsmVsozCaAoWFFBeRgRm popularity = 70.93  year = 2002  abstract_type = True, Perimeter = 87.04347826086956
+Objective:sQLOrGLxEWe popularity = 39.69  year = 1906, typization = dynamic, lazy count = True, Function = 173.27272727272728
+Objective:dcpxmsKgzuYcsOXOexx popularity = 12.96  year = 1976, inheritance = multiple, Function = 104.0
+Procedural:MKlMaJEVRfIgzF popularity = 36.68  year = 2001  abstract_type = True, Perimeter = 142.92857142857142
+Objective:EawhOwsyXrfSrhGHFeoXtSuYQnPhf popularity = 9.76  year = 1944, typization = strict, lazy count = True, Function = 67.03448275862068
+Objective:vVZhJEUmiiWYoPHr popularity = 93.99  year = 1991, typization = strict, lazy count = True, Function = 124.4375
+Procedural:AMngHWUrtieJzfJgxxUUsxh popularity = 21.25  year = 1918  abstract_type = True, Perimeter = 83.3913043478261
+Procedural:LpAZum popularity = 64.81  year = 1939  abstract_type = True, Perimeter = 323.1666666666667
+Objective:Wdu popularity = 22.09  year = 2000, typization = dynamic, lazy count = True, Function = 666.6666666666666
+Objective:jndLepTEbVPKq popularity = 7.3  year = 2001, typization = dynamic, lazy count = True, Function = 153.92307692307693
+Procedural:PigxDVkycorpxNfMILLYIqXdI popularity = 9.52  year = 2013  abstract_type = True, Perimeter = 80.52
+Objective:iZIAiYuQzfHvbp popularity = 7.3  year = 1945, inheritance = multiple, Function = 138.92857142857142
+Objective:PxrjYLkmIFiTqNtzpy popularity = 97.71  year = 1975, inheritance = multiple, Function = 109.72222222222223
+Objective:QRYIg popularity = 39.42  year = 1963, typization = dynamic, lazy count = True, Function = 392.6
+Objective:pMzkDNaAsrkviFOyyOH popularity = 19.92  year = 1916, inheritance = single, Function = 100.84210526315789
+Procedural:IvMbBjCnwQLPOCVgxzXTZeOTNLQV popularity = 7.63  year = 1969  abstract_type = True, Perimeter = 70.32142857142857
+Procedural:MazMezpTaVFYJHcqMdKCxKaylYr popularity = 47.94  year = 1907  abstract_type = True, Perimeter = 70.62962962962963
+Procedural:XkUxvdvPtmYptlRL popularity = 70.01  year = 1913  abstract_type = True, Perimeter = 119.5625
+Procedural:wOmqBvgPiBew popularity = 41.63  year = 1939  abstract_type = True, Perimeter = 161.58333333333334
+Objective:LNjaHDjgsYQBvVsZhhgOTWTFHxNUS popularity = 6.0  year = 2015, inheritance = multiple, Function = 69.48275862068965
+Procedural:HRMVsqZPEXQpgGPpSKHlNYrlQWb popularity = 60.86  year = 1994  abstract_type = True, Perimeter = 73.85185185185185
+Objective:mESuqxeWcUM popularity = 43.94  year = 1914, typization = dynamic, lazy count = True, Function = 174.0
+Procedural:bTlUMpBzqflAHhqkceqlmDXsC popularity = 76.83  year = 1925  abstract_type = True, Perimeter = 77.0
+Objective:HPIbuwOwoagzaeH popularity = 74.36  year = 1951, inheritance = multiple, Function = 130.06666666666666
+Objective:sfzyLeNUNPvbHOTz popularity = 74.05  year = 2008, inheritance = interface, Function = 125.5
+Objective:pAqElOYrJueunhzwDdEwhBnMiOp popularity = 25.33  year = 2002, typization = strict, lazy count = True, Function = 74.14814814814815
+Objective:Y popularity = 28.91  year = 2003, inheritance = single, Function = 2003.0
+Objective:OuqSdQV popularity = 10.16  year = 1925, typization = strict, lazy count = True, Function = 275.0
+Procedural:ZmYnSlDuybeIpqOZbBiWKL popularity = 32.37  year = 1995  abstract_type = True, Perimeter = 90.68181818181819
+Objective:CQVUQqIpfodhvYqujFYzVT popularity = 25.58  year = 2006, inheritance = single, Function = 91.18181818181819
+Objective:zhcCLhCNvzPGhAhXhSxZlbXaPtg popularity = 73.25  year = 1979, inheritance = multiple, Function = 73.29629629629629
+Objective:QQUPYYehddLZFyskYv popularity = 9.48  year = 1960, typization = strict, lazy count = True, Function = 108.88888888888889
+Objective:GMvHHpRZB popularity = 72.73  year = 1949, typization = dynamic, lazy count = True, Function = 216.55555555555554
+Procedural:tFIrRYRldoSzy popularity = 97.49  year = 1942  abstract_type = True, Perimeter = 149.3846153846154
+Objective:IKlVzjjRqEoETRBgqXaudjrMprIZ popularity = 62.62  year = 1967, typization = dynamic, lazy count = True, Function = 70.25
+Objective:KtMSblaICqcjXxhiyjiIXmUbUd popularity = 65.21  year = 1983, typization = strict, lazy count = True, Function = 76.26923076923077
+Procedural:MAEBlqjQGqvxoUNrZq popularity = 56.43  year = 1963  abstract_type = True, Perimeter = 109.05555555555556
+Objective:maY popularity = 28.49  year = 1953, typization = strict, lazy count = True, Function = 651.0
+Objective:CtwakXPRcjlbggskStwbJ popularity = 38.81  year = 1931, typization = dynamic, lazy count = True, Function = 91.95238095238095
+Objective:aPeqgvXxcKb popularity = 80.91  year = 1957, inheritance = interface, Function = 177.9090909090909
+Objective:pfnpCeERTeW popularity = 84.91  year = 2021, typization = strict, lazy count = True, Function = 183.72727272727272
+Objective:fSPJQvcHbjMUkYfDbMuE popularity = 73.64  year = 1984, typization = strict, lazy count = True, Function = 99.2
+Objective:ymMdFDqunsORKCHCVySUkgC popularity = 4.6  year = 1961, typization = strict, lazy count = True, Function = 85.26086956521739
+Procedural:NVAEyN popularity = 44.18  year = 1920  abstract_type = True, Perimeter = 320.0
+Procedural:oZhsccWWyrZvNQnXcAaC popularity = 10.57  year = 2016  abstract_type = True, Perimeter = 100.8
+Objective:utLKgDPUpM popularity = 90.97  year = 1980, inheritance = single, Function = 198.0
+Objective:dgtdEpNcFFnMl popularity = 22.39  year = 1914, inheritance = interface, Function = 147.23076923076923
+Procedural:HYCqu popularity = 30.77  year = 1914  abstract_type = True, Perimeter = 382.8
+Procedural:armAXBZWyspgpxtJsqigGwmOYbREH popularity = 6.53  year = 1966  abstract_type = True, Perimeter = 67.79310344827586
+Objective:XcfLlbWrUufCAVQBvFKM popularity = 27.19  year = 1984, typization = dynamic, lazy count = True, Function = 99.2
+Objective:kcDQDBlwSdMvaHkqlKLKR popularity = 79.5  year = 1980, inheritance = multiple, Function = 94.28571428571429
+Objective:UBHGvTVcvcBtb popularity = 88.89  year = 2017, typization = dynamic, lazy count = True, Function = 155.15384615384616
+Objective:rPWeIMEeydoihQoGGMeOKiHeb popularity = 33.51  year = 1959, typization = dynamic, lazy count = True, Function = 78.36
+Objective:YkNHeKSR popularity = 67.49  year = 1921, typization = dynamic, lazy count = True, Function = 240.125
+Procedural:Cq popularity = 0.66  year = 1946  abstract_type = True, Perimeter = 973.0
+Objective:nGNXkJMqePmaE popularity = 84.11  year = 1979, typization = dynamic, lazy count = True, Function = 152.23076923076923
+Objective:TsERwZj popularity = 96.87  year = 1927, typization = dynamic, lazy count = True, Function = 275.2857142857143
+Objective:WOHmvOjBdtzQzkYzTL popularity = 18.75  year = 1993, inheritance = single, Function = 110.72222222222223
+Objective:CAhnIVOkIVRtnsuSBceCe popularity = 46.44  year = 2016, typization = dynamic, lazy count = True, Function = 96.0
+Objective:qjCSIP popularity = 64.78  year = 1907, inheritance = single, Function = 317.8333333333333
+Objective:xLfWXLcgGRrqUFHSjVs popularity = 15.0  year = 1943, inheritance = multiple, Function = 102.26315789473684
+Procedural:KmhBWxjhkdqTdCTuDmzEhcKOxoSt popularity = 97.27  year = 1938  abstract_type = True, Perimeter = 69.21428571428571
+Procedural:LB popularity = 53.95  year = 1910  abstract_type = True, Perimeter = 955.0
+Objective:DubPMwZ popularity = 2.05  year = 1974, typization = dynamic, lazy count = True, Function = 282.0
+Objective:VogelKvWsXxNI popularity = 68.15  year = 1968, inheritance = single, Function = 151.3846153846154
+Objective:fcmzmmPoScv popularity = 59.02  year = 2006, inheritance = interface, Function = 182.36363636363637
+Objective:t popularity = 87.05  year = 2015, typization = dynamic, lazy count = True, Function = 2015.0
+Objective:uTZqxquxOblLoIEWGNnOZiSV popularity = 28.28  year = 2005, typization = strict, lazy count = True, Function = 83.54166666666667
+Objective:RugFBvQQfFIZVXBNKDttZdXmKlyz popularity = 60.51  year = 1910, typization = dynamic, lazy count = True, Function = 68.21428571428571
+Objective:ZFuGgpbohhlQiDm popularity = 45.58  year = 2001, inheritance = single, Function = 133.4
+Objective:fkmahoWxZ popularity = 22.67  year = 1925, inheritance = single, Function = 213.88888888888889
+Objective:XF popularity = 56.27  year = 1996, inheritance = multiple, Function = 998.0
+Procedural:PTuaFuPUdOEKCfrYiQLkvZbKEg popularity = 15.6  year = 1995  abstract_type = True, Perimeter = 76.73076923076923
+Objective:M popularity = 20.53  year = 1987, inheritance = multiple, Function = 1987.0
+Procedural:pmvflpfdpRaOCKxowL popularity = 95.65  year = 1936  abstract_type = True, Perimeter = 107.55555555555556
+Objective:ibtFSpeFZjzeeTrghErQsMSEcht popularity = 76.16  year = 1955, typization = dynamic, lazy count = True, Function = 72.4074074074074
+Procedural:cvcLky popularity = 29.32  year = 1990  abstract_type = True, Perimeter = 331.6666666666667
+Objective:PhuDVHXrjotzkfNLyHJtJvVV popularity = 5.33  year = 1933, typization = dynamic, lazy count = True, Function = 80.54166666666667
+Procedural:XrGmpPxUdBX popularity = 84.56  year = 1958  abstract_type = True, Perimeter = 178.0
+Objective:HwjAt popularity = 50.91  year = 1911, typization = strict, lazy count = True, Function = 382.2
+Objective:imimvUviarD popularity = 92.78  year = 1928, typization = dynamic, lazy count = True, Function = 175.27272727272728
+Objective:kFBMQlwJznGJufGfhcfTNWpbo popularity = 14.9  year = 1947, inheritance = interface, Function = 77.88
+Procedural:BKEFcAG popularity = 96.64  year = 1992  abstract_type = True, Perimeter = 284.57142857142856
+Objective:mPVzHFTqJYWKSSoL popularity = 45.33  year = 1988, typization = strict, lazy count = True, Function = 124.25
+Objective:XwHzxI popularity = 54.27  year = 2008, typization = strict, lazy count = True, Function = 334.6666666666667
+Objective:FTbRMbh popularity = 87.45  year = 1945, typization = dynamic, lazy count = True, Function = 277.85714285714283
+Objective:BBSornlojmbsewUZHptHgzn popularity = 80.58  year = 1983, inheritance = multiple, Function = 86.21739130434783
+Objective:WnnaTgQaXunwCN popularity = 86.75  year = 1926, inheritance = single, Function = 137.57142857142858
+Procedural:yKCZfphqrhzfMXzeyDutUo popularity = 42.85  year = 1927  abstract_type = True, Perimeter = 87.5909090909091
+Procedural:FTrPbKbnWrtn popularity = 72.85  year = 1971  abstract_type = True, Perimeter = 164.25
+Procedural:sHOhFtmT popularity = 21.12  year = 1978  abstract_type = True, Perimeter = 247.25
+Procedural:ZMZZWnpAXQOCYiZlgIHRnRbYV popularity = 55.28  year = 1974  abstract_type = True, Perimeter = 78.96
+Objective:eYgRQkkXqrgRzhduDizON popularity = 24.31  year = 2020, inheritance = interface, Function = 96.19047619047619
+Objective:DySsriTZpVAqFWf popularity = 30.34  year = 1933, inheritance = interface, Function = 128.86666666666667
+Objective:oGm popularity = 90.81  year = 1975, inheritance = interface, Function = 658.3333333333334
+Procedural:LNuYDjzhFmoEeMcibhWNXeyc popularity = 91.89  year = 1951  abstract_type = True, Perimeter = 81.29166666666667
+Objective:ZYFHTiPAWB popularity = 23.51  year = 1966, inheritance = interface, Function = 196.6
+Objective:cIV popularity = 36.2  year = 1998, inheritance = single, Function = 666.0
+Objective:BQuLaLrBaNqWsCdekZ popularity = 0.6  year = 2003, typization = dynamic, lazy count = True, Function = 111.27777777777777
+Procedural:QWOXnkaZkBFePv popularity = 61.95  year = 2021  abstract_type = True, Perimeter = 144.35714285714286
+Procedural:wiXVjnyIwzKKd popularity = 94.35  year = 2009  abstract_type = True, Perimeter = 154.53846153846155
+Objective:hSzNKZcgkhYeWzcdxMLBVR popularity = 64.92  year = 1968, inheritance = single, Function = 89.45454545454545
+Procedural:XKRIPRZLIjjWzaULffyYMHTlzN popularity = 98.0  year = 2014  abstract_type = True, Perimeter = 77.46153846153847
+Procedural:BkSDXkCWnBJ popularity = 10.23  year = 1910  abstract_type = True, Perimeter = 173.63636363636363
+Objective:mY popularity = 64.34  year = 1927, inheritance = multiple, Function = 963.5
+Objective:DTdlEFzZRKBJkcHyJEaZCcNbFkO popularity = 28.97  year = 1957, inheritance = interface, Function = 72.48148148148148
+Objective:LPmePCntuA popularity = 97.92  year = 1980, inheritance = multiple, Function = 198.0
+Objective:YalqefZqHkLAANWvbwTCnITkL popularity = 2.68  year = 1952, inheritance = multiple, Function = 78.08
+Procedural:YWDVIfvG popularity = 26.78  year = 1969  abstract_type = True, Perimeter = 246.125
+Objective:fCsXFcFRkacXVOZ popularity = 8.58  year = 1908, typization = strict, lazy count = True, Function = 127.2
+Procedural:ttx popularity = 83.27  year = 1953  abstract_type = True, Perimeter = 651.0
+Objective:reazKaX popularity = 70.19  year = 1924, inheritance = multiple, Function = 274.85714285714283
+Objective:SaRQIbxcdwJ popularity = 66.74  year = 1913, inheritance = interface, Function = 173.9090909090909
+Objective:rXiQbIUSgzHuYHSIXgBmeH popularity = 65.0  year = 2010, typization = dynamic, lazy count = True, Function = 91.36363636363636
+Objective:dEc popularity = 16.48  year = 2000, typization = dynamic, lazy count = True, Function = 666.6666666666666
+Objective:oNMJPrYvTZJboAdREekwhrBbYM popularity = 16.69  year = 1999, typization = strict, lazy count = True, Function = 76.88461538461539
+Objective:KlWaWkQmLBXXYW popularity = 68.7  year = 1988, typization = dynamic, lazy count = True, Function = 142.0
+Procedural:ifukVgcpfczojEFaKzg popularity = 77.57  year = 2015  abstract_type = True, Perimeter = 106.05263157894737
+Objective:miZoKAgZaAfzNXgcUoefJg popularity = 64.37  year = 1942, inheritance = interface, Function = 88.27272727272727
+Objective:MDQOjeAzcpvxtmQ popularity = 84.79  year = 2009, inheritance = multiple, Function = 133.93333333333334
+Objective:NWNhwMunOkHBRKiUk popularity = 64.03  year = 1975, typization = strict, lazy count = True, Function = 116.17647058823529
+Objective:ICgSYLIBMCdylbCWDFKJKdZRJoiw popularity = 69.85  year = 1987, typization = strict, lazy count = True, Function = 70.96428571428571
+Objective:TkCYDmhHOuemKz popularity = 74.55  year = 1953, inheritance = multiple, Function = 139.5
+Objective:fJh popularity = 83.59  year = 1983, inheritance = multiple, Function = 661.0
+Objective:KaiwTbtJDB popularity = 47.27  year = 1941, inheritance = single, Function = 194.1
+Objective:GTrKUFjbTAmkRenZQlRxuKCBKJB popularity = 81.43  year = 1927, typization = dynamic, lazy count = True, Function = 71.37037037037037
+Objective:cDqMrJmFTnhUFdteejGtAGgRQ popularity = 92.84  year = 1948, typization = strict, lazy count = True, Function = 77.92
+Procedural:yqc popularity = 59.75  year = 1926  abstract_type = True, Perimeter = 642.0
+Objective:XDDCbyNdGYBpHjJmOGAJFgdNpvV popularity = 42.64  year = 1915, inheritance = single, Function = 70.92592592592592
+Objective:cCzcQuZXepvWUtiifRdD popularity = 29.21  year = 1979, inheritance = interface, Function = 98.95
+Objective:mYUIg popularity = 72.18  year = 1992, typization = dynamic, lazy count = True, Function = 398.4
+Objective:mfGKVHN popularity = 67.05  year = 2015, inheritance = single, Function = 287.85714285714283
+Procedural:qA popularity = 83.59  year = 1981  abstract_type = True, Perimeter = 990.5
+Objective:xIiNNMZEWbk popularity = 77.21  year = 1957, inheritance = interface, Function = 177.9090909090909
+Objective:iWxodXsqKVPeZz popularity = 91.6  year = 1954, inheritance = interface, Function = 139.57142857142858
+Objective:sjiI popularity = 73.8  year = 1916, typization = strict, lazy count = True, Function = 479.0
+Objective:AdYIIxOpUvRnKiKwj popularity = 20.25  year = 1919, inheritance = single, Function = 112.88235294117646
+Objective:eYMbdNEiBBBUS popularity = 82.88  year = 1922, typization = strict, lazy count = True, Function = 147.84615384615384
+Procedural:BfZDqzmTMKOgqKKQPShLwDfjxfO popularity = 86.83  year = 2013  abstract_type = True, Perimeter = 74.55555555555556
+Objective:lsXCowgdZYCrpTRTXwVLL popularity = 75.26  year = 1993, inheritance = multiple, Function = 94.9047619047619
+Objective:EeMiu popularity = 12.09  year = 2009, inheritance = multiple, Function = 401.8
+Objective:eBJYQxEowUGYwVTOZmVuauBCoYhJf popularity = 10.58  year = 1965, inheritance = interface, Function = 67.75862068965517
+Objective:WEecI popularity = 80.15  year = 1946, inheritance = interface, Function = 389.2
+Objective:nxNIFqJXZMUudKyevoYfCMFekRkOPV popularity = 8.75  year = 1902, typization = strict, lazy count = True, Function = 63.4
+Procedural:qGovrdaZhlOigfrnmGF popularity = 35.31  year = 1958  abstract_type = True, Perimeter = 103.05263157894737
+Objective:VOmkPytMgiZBVZ popularity = 53.75  year = 2014, typization = strict, lazy count = True, Function = 143.85714285714286
+Objective:x popularity = 10.74  year = 2019, inheritance = multiple, Function = 2019.0
+Objective:ZQabZSpnTj popularity = 37.31  year = 1978, typization = dynamic, lazy count = True, Function = 197.8
+Objective:TFzgsdxQojTackDoKVrEwAAMdjQ popularity = 3.93  year = 1993, typization = strict, lazy count = True, Function = 73.81481481481481
+Objective:iCljwRicGlqvyuBe popularity = 14.52  year = 1908, inheritance = multiple, Function = 119.25
+Procedural:vPwiCJftMQbYuVHkULWHHflSq popularity = 99.5  year = 1906  abstract_type = True, Perimeter = 76.24
+Procedural:DMfnWDZeXxrlPIRnPxGy popularity = 67.88  year = 1909  abstract_type = True, Perimeter = 95.45
+Objective:WOo popularity = 2.91  year = 2000, typization = strict, lazy count = True, Function = 666.6666666666666
+Objective:OwvsxDmbEu popularity = 22.74  year = 1995, inheritance = multiple, Function = 199.5
+Procedural:KkEZi popularity = 19.85  year = 2002  abstract_type = True, Perimeter = 400.4
+Objective:qRcfaXoQGm popularity = 45.6  year = 1966, inheritance = interface, Function = 196.6
+Procedural:WzirQJNpdckaqyGWLi popularity = 44.79  year = 1924  abstract_type = True, Perimeter = 106.88888888888889
+Procedural:oStjzwAtSJkoLOwcMCsnV popularity = 46.66  year = 1994  abstract_type = True, Perimeter = 94.95238095238095
+Objective:XxsavHFzoxuyMtjGdB popularity = 52.26  year = 1979, typization = dynamic, lazy count = True, Function = 109.94444444444444
+Procedural:SymRPJXpuOzGysWoMbq popularity = 98.3  year = 1976  abstract_type = True, Perimeter = 104.0
+Objective:RzcDVglkzvfsjDRjKzoj popularity = 93.0  year = 1942, inheritance = interface, Function = 97.1
+Objective:ZntxiIbbxFedffCxOTsMdBtoiTuoB popularity = 47.99  year = 1973, inheritance = interface, Function = 68.03448275862068
+Procedural:vWJOJDLCHuXBbnXyS popularity = 74.72  year = 2003  abstract_type = True, Perimeter = 117.82352941176471
+Procedural:OuwJqYDrchGvOzDjpizkhosHgLxN popularity = 59.32  year = 1920  abstract_type = True, Perimeter = 68.57142857142857
+Procedural:opFDOCSkQ popularity = 13.84  year = 1969  abstract_type = True, Perimeter = 218.77777777777777
+Objective:uMKmbpBkHMCditETKYO popularity = 49.82  year = 1906, inheritance = single, Function = 100.3157894736842
+Objective:SOxRhmxbAfKauETalPapbSKMdzsn popularity = 35.85  year = 1985, inheritance = multiple, Function = 70.89285714285714
+Procedural:jETy popularity = 76.28  year = 1945  abstract_type = True, Perimeter = 486.25
+Objective:IeNdZzhVRQnKvCdZI popularity = 35.47  year = 1937, inheritance = single, Function = 113.94117647058823
+Procedural:qbicnMJqmLNlD popularity = 8.18  year = 1978  abstract_type = True, Perimeter = 152.15384615384616
+Objective:kQPylFBfs popularity = 4.91  year = 2008, inheritance = single, Function = 223.11111111111111
+Procedural:itEgJGRXmv popularity = 80.86  year = 1938  abstract_type = True, Perimeter = 193.8
+Objective:wUgFgbgJSijSzUXDmOCeGOGLphY popularity = 47.87  year = 1935, inheritance = interface, Function = 71.66666666666667
+Objective:lENqvZAyRSpPWXreYTjMmmkjHfqx popularity = 96.62  year = 2018, inheritance = multiple, Function = 72.07142857142857
+Objective:QbbBhFvFmEIfLKMLvddbPAVDpw popularity = 16.49  year = 1914, typization = dynamic, lazy count = True, Function = 73.61538461538461
+Objective:XIXCERYHGLVvAmEemGiP popularity = 10.08  year = 1932, inheritance = single, Function = 96.6
+Procedural:lnRilB popularity = 40.21  year = 1988  abstract_type = True, Perimeter = 331.3333333333333
+Procedural:SKqUX popularity = 55.52  year = 1947  abstract_type = True, Perimeter = 389.4
+Objective:YfcLLTzKmIgd popularity = 68.2  year = 1962, inheritance = multiple, Function = 163.5
+Objective:eBuGyRLyQFVuahvgGT popularity = 67.64  year = 2008, inheritance = single, Function = 111.55555555555556
+Objective:BQeZNJzGGbeyVgYXDx popularity = 61.21  year = 1966, typization = dynamic, lazy count = True, Function = 109.22222222222223
+Objective:CArFh popularity = 87.24  year = 2009, typization = strict, lazy count = True, Function = 401.8
+Procedural:afrS popularity = 63.92  year = 1925  abstract_type = True, Perimeter = 481.25
+Procedural:JBOKGQH popularity = 78.64  year = 2014  abstract_type = True, Perimeter = 287.7142857142857
+Objective:fiTzxDWpiL popularity = 13.7  year = 1906, typization = dynamic, lazy count = True, Function = 190.6
+Procedural:q popularity = 50.72  year = 1938  abstract_type = True, Perimeter = 1938.0
+Objective:TEUieDzhkpidfZINSYha popularity = 17.17  year = 1962, inheritance = interface, Function = 98.1
+Procedural:OoV popularity = 17.85  year = 1982  abstract_type = True, Perimeter = 660.6666666666666
+Objective:FeqMHHRPAAzilTrGSiHV popularity = 42.41  year = 2017, typization = dynamic, lazy count = True, Function = 100.85
+Objective:mCmvjbzRTAgPjkaUetVmXaTISnU popularity = 11.77  year = 1983, typization = strict, lazy count = True, Function = 73.44444444444444
+Objective:pvu popularity = 25.68  year = 1988, typization = strict, lazy count = True, Function = 662.6666666666666
+Objective:IdrkiUnJJxralLuDzexyMGrwrhMJ popularity = 40.24  year = 1958, inheritance = interface, Function = 69.92857142857143
+Objective:zyvwavyeWXwVtNzDcwnpQsyW popularity = 71.86  year = 1913, typization = strict, lazy count = True, Function = 79.70833333333333
+Objective:CnQDSAQYGw popularity = 31.92  year = 2013, inheritance = multiple, Function = 201.3
+Objective:xlVdWYySTTaHPUnqJxQPrjIDZDe popularity = 85.85  year = 1945, inheritance = multiple, Function = 72.03703703703704
+Objective:hXPYDifPVZtteEIaXWrxluTwatKg popularity = 72.78  year = 1915, inheritance = single, Function = 68.39285714285714
+Objective:UqxmBfrirkIjo popularity = 72.74  year = 1936, typization = strict, lazy count = True, Function = 148.92307692307693
+Objective:NbMe popularity = 53.56  year = 1968, typization = dynamic, lazy count = True, Function = 492.0
+Procedural:HWAJyEoZyFAOVqV popularity = 58.06  year = 1966  abstract_type = True, Perimeter = 131.06666666666666
+Procedural:phfHESJgAcmTIhUxJzKrsJQT popularity = 1.42  year = 2004  abstract_type = True, Perimeter = 83.5
+Objective:K popularity = 12.2  year = 1948, typization = dynamic, lazy count = True, Function = 1948.0
+Procedural:eqmpUbwgMVoDZDyompP popularity = 12.65  year = 1998  abstract_type = True, Perimeter = 105.15789473684211
+Procedural:aXlT popularity = 67.21  year = 2017  abstract_type = True, Perimeter = 504.25
+Objective:ojIKqZihYFXEqho popularity = 31.76  year = 1965, typization = dynamic, lazy count = True, Function = 131.0
+Procedural:PqEzjVrahvqbZMoDgk popularity = 95.97  year = 1968  abstract_type = True, Perimeter = 109.33333333333333
+Objective:pBbabrdlTr popularity = 98.51  year = 1908, inheritance = multiple, Function = 190.8
+Objective:JfuphVIWjumgOWAVnNemgULU popularity = 38.46  year = 1995, typization = dynamic, lazy count = True, Function = 83.125
+Objective:zRPScTmpvrPhVNin popularity = 54.55  year = 1906, inheritance = single, Function = 119.125
+Objective:jTdnAbwQwUTTWP popularity = 23.93  year = 2013, inheritance = single, Function = 143.78571428571428
+Procedural:ao popularity = 69.38  year = 2010  abstract_type = True, Perimeter = 1005.0
+Procedural:XOoXNgJfJlDKDkiIipLlHbJR popularity = 21.06  year = 1928  abstract_type = True, Perimeter = 80.33333333333333
+Objective:OpvnXibLJYeDtCZAzHo popularity = 4.66  year = 1946, typization = dynamic, lazy count = True, Function = 102.42105263157895
+Objective:dCZLafVwuILZdrYDuMoHZ popularity = 66.33  year = 1993, inheritance = interface, Function = 94.9047619047619
+Objective:ycdsnCkVCmtriylejpZgVKWsN popularity = 90.6  year = 1928, typization = dynamic, lazy count = True, Function = 77.12
+Objective:QuxMIeJzjqPmBnjIBlNRMRKMhBRtSD popularity = 25.67  year = 2011, inheritance = multiple, Function = 67.03333333333333
+Objective:qkHhUrjbidDGSe popularity = 27.96  year = 1943, inheritance = single, Function = 138.78571428571428
+Procedural:SPOhHUh popularity = 62.08  year = 2001  abstract_type = True, Perimeter = 285.85714285714283
+Objective:svpexfdi popularity = 79.28  year = 1938, inheritance = multiple, Function = 242.25
+Procedural:CmOtlJL popularity = 71.31  year = 1991  abstract_type = True, Perimeter = 284.42857142857144
+Objective:whoSRcEtSItM popularity = 28.38  year = 1971, inheritance = interface, Function = 164.25
+Objective:R popularity = 27.68  year = 1919, typization = strict, lazy count = True, Function = 1919.0
+Procedural:ppgVF popularity = 25.74  year = 2021  abstract_type = True, Perimeter = 404.2
+Procedural:ewKUaKJkIqPHxHEqTHANdMJl popularity = 21.07  year = 1927  abstract_type = True, Perimeter = 80.29166666666667
+Objective:dVbEOaMFKvotdw popularity = 47.9  year = 2011, inheritance = single, Function = 143.64285714285714
+Objective:nkKvfuUySkuOPOVuPBKvdOgyXJwpT popularity = 58.6  year = 1975, inheritance = interface, Function = 68.10344827586206
+Objective:iXE popularity = 58.37  year = 1905, typization = strict, lazy count = True, Function = 635.0
+Procedural:qjkusveYaRpHMmOFcopKSRDQJHxC popularity = 6.02  year = 1986  abstract_type = True, Perimeter = 70.92857142857143
+Procedural:Gmn popularity = 68.75  year = 1943  abstract_type = True, Perimeter = 647.6666666666666
+Procedural:DTppFmRmAwD popularity = 22.67  year = 1993  abstract_type = True, Perimeter = 181.1818181818182
+Objective:cAadXqqSOrLKdxFAeEkfH popularity = 29.54  year = 1999, typization = strict, lazy count = True, Function = 95.19047619047619
+Objective:RTtpOTXa popularity = 35.52  year = 1954, inheritance = single, Function = 244.25
+Procedural:jygc popularity = 20.29  year = 1971  abstract_type = True, Perimeter = 492.75
+Objective:TAhIMR popularity = 15.63  year = 1999, typization = dynamic, lazy count = True, Function = 333.1666666666667
+Procedural:yTdiVVPwdTY popularity = 72.9  year = 1942  abstract_type = True, Perimeter = 176.54545454545453
+Objective:FhVnAZcFrCtnUeoE popularity = 96.76  year = 1986, inheritance = multiple, Function = 124.125
+Procedural:HkkejJFRvALLUFqSZGXZUuXjHlBj popularity = 72.83  year = 1934  abstract_type = True, Perimeter = 69.07142857142857
+Procedural:lICsSCJgCiYysclWZnFS popularity = 96.46  year = 1949  abstract_type = True, Perimeter = 97.45
+Objective:XMCRYtanpSUMwzF popularity = 85.94  year = 1995, typization = dynamic, lazy count = True, Function = 133.0
+Objective:VhEveabyqA popularity = 54.25  year = 1938, inheritance = multiple, Function = 193.8
+Objective:jOezstSFVqHByrPTnoiZjdDI popularity = 22.52  year = 1993, inheritance = single, Function = 83.04166666666667
+Objective:KDMsUluFVraVeTKSRGqINt popularity = 45.82  year = 2004, inheritance = single, Function = 91.0909090909091
+Procedural:fUcBs popularity = 6.0  year = 1909  abstract_type = True, Perimeter = 381.8
+Procedural:NwqKVHJmyuPrLAIganrD popularity = 36.8  year = 1937  abstract_type = True, Perimeter = 96.85
+Objective:LZrtLMxSAfsZutwVFNvPB popularity = 10.0  year = 1947, typization = dynamic, lazy count = True, Function = 92.71428571428571
+Objective:UR popularity = 78.71  year = 1999, typization = dynamic, lazy count = True, Function = 999.5
+Procedural:IGoR popularity = 84.43  year = 1930  abstract_type = True, Perimeter = 482.5
+Objective:bZHZjtcvolJJmawsngYMgl popularity = 15.54  year = 1927, typization = strict, lazy count = True, Function = 87.5909090909091
+Objective:xQkOkVolDvMuTMJiZQU popularity = 98.07  year = 1922, inheritance = single, Function = 101.15789473684211
+Procedural:zJGqeenaWeLnLFMBoMsWNILD popularity = 80.06  year = 1936  abstract_type = True, Perimeter = 80.66666666666667
+Objective:UblwiEHNxfvQpYoGRh popularity = 34.4  year = 1923, typization = dynamic, lazy count = True, Function = 106.83333333333333
+Objective:qxRxoOEZurVwteUF popularity = 34.78  year = 1913, inheritance = single, Function = 119.5625
+Procedural:efknNuzFXEeW popularity = 97.49  year = 1934  abstract_type = True, Perimeter = 161.16666666666666
+Objective:wwrHwqNA popularity = 34.12  year = 2006, inheritance = interface, Function = 250.75
+Objective:Ku popularity = 25.89  year = 1916, typization = strict, lazy count = True, Function = 958.0
+Procedural:rIlfmHVddlgqOV popularity = 23.79  year = 2012  abstract_type = True, Perimeter = 143.71428571428572
+Objective:ywlFlsFDzJ popularity = 26.54  year = 1965, typization = strict, lazy count = True, Function = 196.5
+Objective:DVgyUxfhBEBZKVR popularity = 73.35  year = 1929, inheritance = single, Function = 128.6
+Procedural:IjUTN popularity = 35.19  year = 1928  abstract_type = True, Perimeter = 385.6
+Objective:qMoktIbt popularity = 23.31  year = 1955, typization = dynamic, lazy count = True, Function = 244.375
+Objective:BIuaGtHucUmyZHJpdoHpiYawBH popularity = 82.18  year = 1941, typization = dynamic, lazy count = True, Function = 74.65384615384616
+Objective:GZwjEh popularity = 89.57  year = 1973, inheritance = single, Function = 328.8333333333333
+Objective:S popularity = 68.13  year = 2016, typization = dynamic, lazy count = True, Function = 2016.0
+Objective:aGOjzegE popularity = 71.04  year = 1956, inheritance = single, Function = 244.5
+Objective:MxPGYvFCmdBqjLjwcnCgzXCpeZGBU popularity = 42.43  year = 1944, inheritance = single, Function = 67.03448275862068
+Objective:aGofWWttHPerMJF popularity = 47.74  year = 1964, inheritance = interface, Function = 130.93333333333334
+Objective:ymxuBqYpDHbXGvWfdc popularity = 34.7  year = 1942, typization = dynamic, lazy count = True, Function = 107.88888888888889
+Objective:T popularity = 69.74  year = 1913, inheritance = interface, Function = 1913.0
+Procedural:oYQE popularity = 81.16  year = 1989  abstract_type = True, Perimeter = 497.25
+Objective:MmQpulTwohchMBXOLUTw popularity = 65.66  year = 1924, typization = strict, lazy count = True, Function = 96.2
+Objective:cvPjRUTcjvUMdY popularity = 87.57  year = 1996, typization = dynamic, lazy count = True, Function = 142.57142857142858
+Procedural:jTljbAYXPMpcQBatbuNjMjrrnoKvQa popularity = 16.29  year = 1990  abstract_type = True, Perimeter = 66.33333333333333
+Procedural:gYrMTKHPJmgnZJNSMGAnknzvMhipK popularity = 15.25  year = 1924  abstract_type = True, Perimeter = 66.34482758620689
+Objective:OuMFvCKpjKoKx popularity = 51.3  year = 2000, inheritance = single, Function = 153.84615384615384
+Objective:jWHtPK popularity = 83.09  year = 1922, inheritance = interface, Function = 320.3333333333333
+Objective:GB popularity = 8.59  year = 1951, inheritance = interface, Function = 975.5
+Objective:TqkPWvzNBJLYKCsDPjHykfB popularity = 67.24  year = 1998, typization = dynamic, lazy count = True, Function = 86.8695652173913
+Procedural:dUrRTdaQLRlE popularity = 41.32  year = 1938  abstract_type = True, Perimeter = 161.5
+Objective:ArpnmDMibqVYvqWZKmnHLXZN popularity = 59.25  year = 1921, typization = strict, lazy count = True, Function = 80.04166666666667
+Procedural:Ino popularity = 86.06  year = 2009  abstract_type = True, Perimeter = 669.6666666666666
+Objective:cbYiSoEShltItyrKwVasi popularity = 63.95  year = 1928, typization = dynamic, lazy count = True, Function = 91.80952380952381
+Procedural:mGUEwNbWgs popularity = 62.98  year = 1945  abstract_type = True, Perimeter = 194.5
+Objective:tEkky popularity = 17.01  year = 2006, inheritance = interface, Function = 401.2
+Procedural:VkyKbfKJixjZZBPcvuWpcIJdtfFQlr popularity = 9.09  year = 1983  abstract_type = True, Perimeter = 66.1
+Objective:fPYziqVhmd popularity = 24.11  year = 1978, typization = dynamic, lazy count = True, Function = 197.8
+Objective:TYGmvSGVYWnzBeyGVweYsazswsdhCH popularity = 28.82  year = 1975, inheritance = multiple, Function = 65.83333333333333
+Objective:yglpqB popularity = 83.8  year = 1922, inheritance = interface, Function = 320.3333333333333
+Objective:oocJwuTpOiGWLvHRizv popularity = 6.0  year = 1920, inheritance = interface, Function = 101.05263157894737
+Objective:rzYbEArcQeerkYw popularity = 49.83  year = 1932, inheritance = multiple, Function = 128.8
+Procedural:iIZGAvGZyLxZsCcFUqqLEqM popularity = 2.53  year = 1934  abstract_type = True, Perimeter = 84.08695652173913
+Procedural:YRGmCJKXaLAvHFVQiFbuxX popularity = 83.52  year = 2002  abstract_type = True, Perimeter = 91.0
+Procedural:TyqiQTZkYaoduHxlIrbasHKouel popularity = 18.07  year = 1928  abstract_type = True, Perimeter = 71.4074074074074
+Procedural:ShlgMFfUbNJruDzBxQc popularity = 20.42  year = 1952  abstract_type = True, Perimeter = 102.73684210526316
+Procedural:xSaLVj popularity = 55.12  year = 1973  abstract_type = True, Perimeter = 328.8333333333333
+Objective:LAsTiDROJk popularity = 96.23  year = 2019, inheritance = multiple, Function = 201.9
+Procedural:oCPBZTQWwuDwuksnClshcE popularity = 94.5  year = 1918  abstract_type = True, Perimeter = 87.18181818181819
+Objective:DLKwHvVLQXDLpzHNwfqxwzRObgsGuk popularity = 58.75  year = 1972, inheritance = single, Function = 65.73333333333333
+Objective:SaIABSGGVrl popularity = 6.43  year = 2011, typization = strict, lazy count = True, Function = 182.8181818181818
+Objective:lLkRgznmKHujermOnZTCpKV popularity = 95.4  year = 1916, inheritance = interface, Function = 83.30434782608695
+Objective:xGRVLHIYlduGWRLfeMzbm popularity = 83.5  year = 2010, typization = dynamic, lazy count = True, Function = 95.71428571428571
+Objective:PEgfjKBlLELCneMq popularity = 28.09  year = 1999, inheritance = single, Function = 124.9375
+Procedural:fiCUMJhKbSxtstu popularity = 60.81  year = 1970  abstract_type = True, Perimeter = 131.33333333333334
+Objective:UFEwKoaDgOQRUAjak popularity = 91.65  year = 2004, typization = strict, lazy count = True, Function = 117.88235294117646
+Objective:RoAgLflexyqfnlpxsjJQscQghru popularity = 22.9  year = 2021, inheritance = single, Function = 74.85185185185185
+Objective:IjKIgzyKs popularity = 30.84  year = 2003, typization = strict, lazy count = True, Function = 222.55555555555554
+Objective:qMlIstYdi popularity = 56.8  year = 1971, typization = strict, lazy count = True, Function = 219.0
+Procedural:iXZTaPljRc popularity = 17.05  year = 1912  abstract_type = True, Perimeter = 191.2
+Objective:iPqabPs popularity = 69.49  year = 2011, typization = dynamic, lazy count = True, Function = 287.2857142857143
+Objective:vngSAFWH popularity = 38.31  year = 1940, inheritance = multiple, Function = 242.5
+Objective:bSYrGgwteEZMzPFuvuekz popularity = 85.6  year = 1983, inheritance = multiple, Function = 94.42857142857143
+Objective:PSEvw popularity = 30.52  year = 1970, typization = strict, lazy count = True, Function = 394.0
+Procedural:eYGIkC popularity = 70.76  year = 1988  abstract_type = True, Perimeter = 331.3333333333333
+Objective:rIOEnvaKFRZEdeJuixhbr popularity = 24.32  year = 1988, inheritance = multiple, Function = 94.66666666666667
+Procedural:NOaBZrWnLkuMSBHnlfOugJWgw popularity = 0.04  year = 1973  abstract_type = True, Perimeter = 78.92
+Objective:P popularity = 15.34  year = 1964, typization = dynamic, lazy count = True, Function = 1964.0
+Objective:sTcoL popularity = 74.78  year = 1988, inheritance = multiple, Function = 397.6
+Procedural:OtfCFKdKceoAayzbjDEp popularity = 3.34  year = 1921  abstract_type = True, Perimeter = 96.05
+Objective:fIFQl popularity = 51.18  year = 1946, inheritance = single, Function = 389.2
+Objective:ksXO popularity = 14.97  year = 1989, typization = dynamic, lazy count = True, Function = 497.25
+Procedural:LQjiBMZYWKyLyzFZsvFJKYdwtOj popularity = 59.25  year = 1967  abstract_type = True, Perimeter = 72.85185185185185
+Objective:WwK popularity = 54.51  year = 1946, inheritance = single, Function = 648.6666666666666
+Procedural:EXz popularity = 22.66  year = 1941  abstract_type = True, Perimeter = 647.0
+Procedural:dOvQsPxUjmMBczADEzjUmNUFqn popularity = 32.65  year = 2021  abstract_type = True, Perimeter = 77.73076923076923
+Objective:IlxhQoIEDgsKSmebOJ popularity = 7.4  year = 1945, inheritance = multiple, Function = 108.05555555555556
+Objective:EnPNySdJsMViBgu popularity = 47.79  year = 1957, inheritance = single, Function = 130.46666666666667
+Objective:iEjlc popularity = 94.44  year = 1941, typization = dynamic, lazy count = True, Function = 388.2
+Objective:wBUWuUBoRoZGCqCWAkHCbXafqzk popularity = 62.28  year = 1926, inheritance = interface, Function = 71.33333333333333
+Objective:sDvkkxyVXxDfCvd popularity = 87.79  year = 1983, typization = dynamic, lazy count = True, Function = 132.2
+Objective:sTRvxCDqAdlXpHWTfpbfAe popularity = 39.83  year = 1969, typization = dynamic, lazy count = True, Function = 89.5
+Objective:vMIsKtFerAVhmIEfayAJmeIWphmup popularity = 52.15  year = 1998, inheritance = single, Function = 68.89655172413794
+Objective:AKTVqhSHKOyhuOAYrEPeMpN popularity = 64.67  year = 1920, inheritance = interface, Function = 83.47826086956522
+Objective:eqOJUOUgHEMDfuceXWQBGNgaDDPsR popularity = 99.69  year = 1928, inheritance = single, Function = 66.48275862068965
+Objective:WcJyvZphBnKmJoWrBIHJHpLbFZdV popularity = 73.91  year = 1993, inheritance = single, Function = 71.17857142857143
+Objective:pPJoUPnRnRUPzUiXmERWu popularity = 94.65  year = 1999, inheritance = interface, Function = 95.19047619047619
+Objective:FOdIHvvSjPPgfdlRssDUXHx popularity = 43.07  year = 1995, inheritance = single, Function = 86.73913043478261
+Objective:rpIu popularity = 35.79  year = 2020, typization = strict, lazy count = True, Function = 505.0
+Objective:jaBXqJ popularity = 39.29  year = 1949, inheritance = multiple, Function = 324.8333333333333
+Objective:mS popularity = 81.47  year = 1901, typization = strict, lazy count = True, Function = 950.5
+Objective:XhtGorqxUjGNXvOaWKVO popularity = 48.47  year = 2015, typization = strict, lazy count = True, Function = 100.75
+Procedural:Om popularity = 29.27  year = 2010  abstract_type = True, Perimeter = 1005.0
+Objective:tIaueNLn popularity = 42.61  year = 1965, inheritance = interface, Function = 245.625
+Objective:jESb popularity = 79.52  year = 1930, inheritance = multiple, Function = 482.5
+Objective:viTHjduOeMkjTgAz popularity = 65.06  year = 1994, inheritance = single, Function = 124.625
+Objective:VZ popularity = 52.04  year = 1942, typization = strict, lazy count = True, Function = 971.0
+Procedural:WNPbChpkbxUesnux popularity = 0.09  year = 1943  abstract_type = True, Perimeter = 121.4375
+Objective:wfnDTYnKzrTVYiokkGG popularity = 84.69  year = 1958, inheritance = multiple, Function = 103.05263157894737
+Objective:PvYccscHVBPZdhDIIAlvwMz popularity = 7.67  year = 2011, inheritance = interface, Function = 87.43478260869566
+Objective:atbgGiMKEXWSUAKHJOjKRXQAFxcyhX popularity = 98.49  year = 1967, typization = strict, lazy count = True, Function = 65.56666666666666
+Objective:CYyzni popularity = 54.93  year = 1911, inheritance = multiple, Function = 318.5
+Objective:demorASSk popularity = 43.77  year = 2002, inheritance = interface, Function = 222.44444444444446
+Procedural:VxHMiHlzaueEdbyncxZl popularity = 24.13  year = 2000  abstract_type = True, Perimeter = 100.0
+Objective:lpWyAKja popularity = 89.37  year = 1912, inheritance = single, Function = 239.0
+Objective:UUZbbtmYdbYgPcqnU popularity = 33.78  year = 1907, inheritance = single, Function = 112.17647058823529
+Objective:QM popularity = 39.05  year = 1970, inheritance = multiple, Function = 985.0
+Objective:DjCqLkWXMMMXXooLNe popularity = 8.83  year = 2011, inheritance = interface, Function = 111.72222222222223
+Objective:XNBNOumLeNruOSVtd popularity = 74.49  year = 2002, inheritance = single, Function = 117.76470588235294
+Objective:bRlWOeuWpM popularity = 71.03  year = 1982, typization = dynamic, lazy count = True, Function = 198.2
+Objective:EdUUjHLXCGpMRbmNEuDr popularity = 38.73  year = 2002, typization = strict, lazy count = True, Function = 100.1
+Objective:NRmQDCiKqairwMbwMQUiUYknhdNZ popularity = 39.24  year = 1966, inheritance = single, Function = 70.21428571428571
+Procedural:SuCVdCidNrYmjVAJv popularity = 88.95  year = 1995  abstract_type = True, Perimeter = 117.3529411764706
+Procedural:jhinEDjXshqMjPcuOyWHfAZLUMxYy popularity = 43.74  year = 1979  abstract_type = True, Perimeter = 68.24137931034483
+Objective:FXwolH popularity = 81.0  year = 1995, typization = dynamic, lazy count = True, Function = 332.5
+Procedural:eRIawJGqZZ popularity = 71.24  year = 1915  abstract_type = True, Perimeter = 191.5
+Objective:YgecestcHlEaAYkRiXYl popularity = 4.14  year = 1929, typization = dynamic, lazy count = True, Function = 96.45
+Objective:UmcH popularity = 24.41  year = 1980, inheritance = interface, Function = 495.0
+Procedural:qTmLQuvgPEcvNratviwFbrCCqiS popularity = 88.06  year = 1925  abstract_type = True, Perimeter = 71.29629629629629
+Objective:vlLmXytjoJJ popularity = 23.5  year = 1972, typization = strict, lazy count = True, Function = 179.27272727272728
+Objective:JCMNldgq popularity = 46.37  year = 1951, typization = dynamic, lazy count = True, Function = 243.875
+Objective:wvnNfvlRVIJuiC popularity = 38.64  year = 1973, inheritance = single, Function = 140.92857142857142
+Objective:BYy popularity = 17.58  year = 1942, typization = dynamic, lazy count = True, Function = 647.3333333333334
+Objective:GUvtIOohJOfWkAQVDpzjYxUa popularity = 59.17  year = 1995, inheritance = interface, Function = 83.125
+Objective:DERvMrCnzQfpyCRGhA popularity = 58.8  year = 1902, typization = strict, lazy count = True, Function = 105.66666666666667
+Objective:WEvqFqVoBxy popularity = 30.97  year = 1907, inheritance = single, Function = 173.36363636363637
+Procedural:IPh popularity = 82.19  year = 1946  abstract_type = True, Perimeter = 648.6666666666666
+Procedural:Hf popularity = 16.25  year = 1960  abstract_type = True, Perimeter = 980.0
+Objective:McUhCbNH popularity = 84.43  year = 2012, typization = dynamic, lazy count = True, Function = 251.5
+Procedural:NCjulLNsuOnjcp popularity = 15.97  year = 1949  abstract_type = True, Perimeter = 139.21428571428572
+Objective:qaUhQaeRCzEpxYvXpkJMPFQpjfXagY popularity = 59.35  year = 1905, inheritance = interface, Function = 63.5
+Objective:IKvrxFBlMaZTGpsydDoiAvKqY popularity = 17.06  year = 1963, inheritance = single, Function = 78.52
+Objective:eoMJqXmHEzWmxCieNFONY popularity = 15.17  year = 1914, inheritance = interface, Function = 91.14285714285714
+Objective:vTpALENmrEXpWtJjCGPJ popularity = 69.29  year = 1905, inheritance = single, Function = 95.25
+Objective:KoHEvofFmygCOZWGMSZovDaxMVXgDQ popularity = 74.0  year = 1903, typization = strict, lazy count = True, Function = 63.43333333333333
+Objective:yQbNITIHLrOkHgdAcGlaoz popularity = 42.24  year = 1943, inheritance = single, Function = 88.31818181818181
+Objective:Ya popularity = 83.57  year = 1939, typization = dynamic, lazy count = True, Function = 969.5
+Procedural:ycfh popularity = 17.53  year = 2015  abstract_type = True, Perimeter = 503.75
+Procedural:mNzkKkSxhLgUMe popularity = 43.24  year = 1910  abstract_type = True, Perimeter = 136.42857142857142
+Objective:wyuBLvaCQqXSLCRnlb popularity = 54.46  year = 1914, typization = dynamic, lazy count = True, Function = 106.33333333333333
+Objective:sUqXOGtq popularity = 7.86  year = 2005, typization = dynamic, lazy count = True, Function = 250.625
+Objective:xPFQkzPhix popularity = 36.58  year = 1934, typization = dynamic, lazy count = True, Function = 193.4
+Objective:MqLXDkJdJmBXwNiBkEy popularity = 72.98  year = 1982, typization = strict, lazy count = True, Function = 104.3157894736842
+Procedural:UGCvVzw popularity = 67.32  year = 1977  abstract_type = True, Perimeter = 282.42857142857144
+Procedural:AGy popularity = 78.3  year = 2008  abstract_type = True, Perimeter = 669.3333333333334
+Objective:qYuA popularity = 98.95  year = 1929, inheritance = single, Function = 482.25
+Objective:RtyViDOzFk popularity = 44.91  year = 1962, typization = strict, lazy count = True, Function = 196.2
+Procedural:ArQgmceNORCwatgdrFXAC popularity = 22.44  year = 1906  abstract_type = True, Perimeter = 90.76190476190476
+Objective:kfiCrQvWrFbTydLQylSzFVPdTMxENC popularity = 60.64  year = 1972, inheritance = single, Function = 65.73333333333333
+Procedural:haITlJzJRZqGg popularity = 73.41  year = 1969  abstract_type = True, Perimeter = 151.46153846153845
+Objective:nhlRfattQdSDJflzr popularity = 77.06  year = 1988, typization = strict, lazy count = True, Function = 116.94117647058823
+Objective:ARLoJNkLboFUoDtKLJ popularity = 19.79  year = 2005, inheritance = single, Function = 111.38888888888889
+Objective:yYoAKZylTR popularity = 67.54  year = 1972, typization = strict, lazy count = True, Function = 197.2
+Procedural:gkjIKtgTChEMLyDgdUGaJ popularity = 35.55  year = 2020  abstract_type = True, Perimeter = 96.19047619047619
+Objective:zwOjxhRXyLOt popularity = 35.3  year = 1961, typization = strict, lazy count = True, Function = 163.41666666666666
+Objective:FNYrLovzhSAnXBocduHR popularity = 15.86  year = 1942, inheritance = interface, Function = 97.1
+Objective:GHZBsGjMnCOZRK popularity = 52.3  year = 1946, inheritance = multiple, Function = 139.0
+Procedural:uBp popularity = 24.0  year = 1959  abstract_type = True, Perimeter = 653.0
+Procedural:eKuf popularity = 13.26  year = 1995  abstract_type = True, Perimeter = 498.75
+Objective:tCyLlRFnTccARub popularity = 70.64  year = 1917, inheritance = single, Function = 127.8
+Procedural:GWDLrDSCjfLdaZhcWBfMByB popularity = 87.44  year = 1980  abstract_type = True, Perimeter = 86.08695652173913
+Objective:bIKwBzSbDhTugvcpfZw popularity = 41.11  year = 1947, inheritance = interface, Function = 102.47368421052632
+Objective:JOkpkO popularity = 64.06  year = 1972, inheritance = single, Function = 328.6666666666667
+Objective:zCO popularity = 57.68  year = 1916, inheritance = multiple, Function = 638.6666666666666
+Objective:KzXdcYRgclFRlxegWkKrALFT popularity = 44.56  year = 1924, inheritance = single, Function = 80.16666666666667
+Objective:xJaLGJviCsecgIvJmY popularity = 20.77  year = 2018, typization = dynamic, lazy count = True, Function = 112.11111111111111
+Objective:LXJNZCmirNSlQXg popularity = 96.12  year = 1970, inheritance = multiple, Function = 131.33333333333334
+Procedural:yrGaEqiFsheroYefSFNL popularity = 48.01  year = 1927  abstract_type = True, Perimeter = 96.35
+Procedural:BrXDXLoyMkWLHibshpbccILSUln popularity = 94.13  year = 2015  abstract_type = True, Perimeter = 74.62962962962963
+Procedural:RYtpBWeZgnxlX popularity = 46.92  year = 1986  abstract_type = True, Perimeter = 152.76923076923077
+Procedural:PgQOF popularity = 94.8  year = 1919  abstract_type = True, Perimeter = 383.8
+Objective:vZkYyFWY popularity = 72.56  year = 1909, typization = strict, lazy count = True, Function = 238.625
+Objective:BzWOjVOkOdVz popularity = 82.29  year = 1982, typization = dynamic, lazy count = True, Function = 165.16666666666666
+Objective:UvwLhobJrvKKTwQEHGefYE popularity = 0.3  year = 1949, inheritance = multiple, Function = 88.5909090909091
+Objective:BTQzoQOM popularity = 46.99  year = 1915, inheritance = interface, Function = 239.375
+Procedural:zDcjZbQRryDhnZfJiiSqiHYye popularity = 24.26  year = 1962  abstract_type = True, Perimeter = 78.48
+Objective:CRDijrtjOKoBqOoTzEK popularity = 97.29  year = 2014, typization = dynamic, lazy count = True, Function = 106.0
+Procedural:zIc popularity = 77.72  year = 1919  abstract_type = True, Perimeter = 639.6666666666666
+Objective:eClIMZrAXIdflGvDapVqKUiLc popularity = 36.59  year = 2017, inheritance = multiple, Function = 80.68
+Procedural:dVOZEhhcoSwVxFwJRosKGobzyJk popularity = 25.93  year = 1941  abstract_type = True, Perimeter = 71.88888888888889
+Objective:gbaRxMXyxUrojPrfozHrLW popularity = 84.68  year = 1986, typization = dynamic, lazy count = True, Function = 90.27272727272727
+Objective:UunEpXvZflJzbkyxIuQLmaJIB popularity = 73.84  year = 1993, typization = dynamic, lazy count = True, Function = 79.72
+Procedural:SfySznS popularity = 43.69  year = 1950  abstract_type = True, Perimeter = 278.57142857142856
+Objective:zQZkNT popularity = 75.94  year = 1997, typization = strict, lazy count = True, Function = 332.8333333333333
+Objective:RcsnEBPj popularity = 46.82  year = 2003, inheritance = single, Function = 250.375
+Objective:Keg popularity = 26.05  year = 1929, typization = dynamic, lazy count = True, Function = 643.0
+Objective:vJdRItJGBfQL popularity = 9.05  year = 1989, typization = strict, lazy count = True, Function = 165.75
+Objective:TBwxkftuyVauwXosut popularity = 63.95  year = 1914, inheritance = single, Function = 106.33333333333333
+Objective:tTZWbEsMnoFlnfobnd popularity = 40.26  year = 1996, inheritance = interface, Function = 110.88888888888889
+Objective:omUDOC popularity = 56.66  year = 1998, typization = dynamic, lazy count = True, Function = 333.0
+Objective:Fc popularity = 15.04  year = 1917, typization = strict, lazy count = True, Function = 958.5
+Procedural:ogPt popularity = 36.74  year = 1963  abstract_type = True, Perimeter = 490.75
+Objective:KBRUmWJETaFSre popularity = 51.66  year = 1928, inheritance = multiple, Function = 137.71428571428572
+Procedural:jLzJXhWUkvHgqPdyQtTH popularity = 56.62  year = 1970  abstract_type = True, Perimeter = 98.5
+Objective:bHJAHTQ popularity = 68.08  year = 1981, typization = dynamic, lazy count = True, Function = 283.0
+Objective:wXhfDTbmJdJeoJpFiZyFNWYbYfnnQb popularity = 89.2  year = 1979, inheritance = single, Function = 65.96666666666667
+Objective:WcZmExo popularity = 4.57  year = 1941, inheritance = single, Function = 277.2857142857143
+Procedural:XLNHkRZmsjcmwBnLcCF popularity = 18.63  year = 1957  abstract_type = True, Perimeter = 103.0
+Objective:tShXA popularity = 26.16  year = 1965, typization = strict, lazy count = True, Function = 393.0
+Objective:lGorPqIqCkocsXTuzKL popularity = 97.69  year = 2000, typization = strict, lazy count = True, Function = 105.26315789473684
+Objective:aOnSinchvaMzXzTsv popularity = 46.62  year = 1957, typization = dynamic, lazy count = True, Function = 115.11764705882354
+Procedural:ZRWhJhbGfrMzhw popularity = 30.23  year = 2006  abstract_type = True, Perimeter = 143.28571428571428
+Objective:mVZQtLijReGjCrxGLBAXyLJoYGG popularity = 80.02  year = 1929, inheritance = interface, Function = 71.44444444444444
+Procedural:husekZllWYkHroHpZTNNWAKaj popularity = 5.01  year = 1982  abstract_type = True, Perimeter = 79.28
+Objective:osLTnHLEGAfaiazYGiPd popularity = 70.87  year = 1986, typization = dynamic, lazy count = True, Function = 99.3
+Objective:vnhEcCwxHgBogTagbEeKSfWDtlJJNd popularity = 30.97  year = 1960, inheritance = multiple, Function = 65.33333333333333
+Objective:spXcNJUjFySewCYh popularity = 11.87  year = 1998, inheritance = multiple, Function = 124.875
+Procedural:ZtLaiEhNsqZjVvcasJspLi popularity = 71.63  year = 1910  abstract_type = True, Perimeter = 86.81818181818181
+Procedural:gSvHDKcCRp popularity = 19.79  year = 1922  abstract_type = True, Perimeter = 192.2
+Objective:hMrNymJDqKskxOt popularity = 55.74  year = 1907, inheritance = multiple, Function = 127.13333333333334
+Objective:og popularity = 53.28  year = 1967, typization = dynamic, lazy count = True, Function = 983.5
+Procedural:RAAuWyxiT popularity = 28.25  year = 1945  abstract_type = True, Perimeter = 216.11111111111111
+Procedural:yikKcNDedGcNkk popularity = 37.98  year = 1946  abstract_type = True, Perimeter = 139.0
+Objective:sCFjPqKd popularity = 26.97  year = 2018, inheritance = single, Function = 252.25
+Objective:vVaffUeVyvaqPfAFUs popularity = 83.26  year = 1980, typization = dynamic, lazy count = True, Function = 110.0
+Objective:BDcdIUxsZopbukcsqB popularity = 25.21  year = 1913, inheritance = multiple, Function = 106.27777777777777
+Objective:Lxt popularity = 36.71  year = 1952, typization = strict, lazy count = True, Function = 650.6666666666666
+Objective:pxWoqvNIrJaTPgaRE popularity = 54.12  year = 1938, inheritance = multiple, Function = 114.0
+Procedural:Bd popularity = 95.51  year = 1966  abstract_type = True, Perimeter = 983.0
+Procedural:y popularity = 25.22  year = 1919  abstract_type = True, Perimeter = 1919.0
+Procedural:WbYaOCsX popularity = 84.31  year = 1974  abstract_type = True, Perimeter = 246.75
+Objective:DdNtDksrfUd popularity = 94.51  year = 2018, typization = dynamic, lazy count = True, Function = 183.45454545454547
+Procedural:CEcmVqUUUGxNkPvjJlUoOoxuuXoI popularity = 67.5  year = 1996  abstract_type = True, Perimeter = 71.28571428571429
+Objective:pNdUqXQhCngTxyAhG popularity = 95.01  year = 1931, inheritance = multiple, Function = 113.58823529411765
+Objective:dqyhtJdAOSErvZwLdx popularity = 81.65  year = 1902, inheritance = interface, Function = 105.66666666666667
+Objective:cIapW popularity = 90.05  year = 1965, inheritance = single, Function = 393.0
+Procedural:XtSBTJhkQKIuxSBnRjDRROJKFGMrjb popularity = 44.45  year = 1994  abstract_type = True, Perimeter = 66.46666666666667
+Objective:pRcqgJxcdegRziUgcQJrTCxfWsea popularity = 24.98  year = 2020, typization = strict, lazy count = True, Function = 72.14285714285714
+Objective:KOKOrMlkKMuqXcdwkqzbQX popularity = 48.71  year = 1980, inheritance = multiple, Function = 90.0
+Objective:boKdoJEqCNnvB popularity = 97.38  year = 2010, inheritance = interface, Function = 154.6153846153846
+Procedural:GoAYQYWimjGQHbt popularity = 63.53  year = 1945  abstract_type = True, Perimeter = 129.66666666666666
+Procedural:yfJuTKOrtihpCSbtbe popularity = 85.38  year = 1934  abstract_type = True, Perimeter = 107.44444444444444
+Procedural:qWAJKoukElEwojfK popularity = 39.63  year = 1950  abstract_type = True, Perimeter = 121.875
+Objective:yIvpuGGpARemd popularity = 36.24  year = 1928, inheritance = single, Function = 148.30769230769232
+Objective:bEVfEI popularity = 0.91  year = 1917, inheritance = single, Function = 319.5
+Objective:DSTcyIrBYdBLolVPFbBdaPXBqAD popularity = 85.71  year = 1910, inheritance = multiple, Function = 70.74074074074075
+Objective:kZiDeKqQbVmhLoPOSVjYm popularity = 19.97  year = 1948, inheritance = multiple, Function = 92.76190476190476
+Objective:fkJLEesJfnpyrYH popularity = 52.4  year = 1990, typization = dynamic, lazy count = True, Function = 132.66666666666666
+Objective:ZvhKFiH popularity = 21.38  year = 1907, typization = dynamic, lazy count = True, Function = 272.42857142857144
+Objective:iQlwhyyburtcwoTASjXgvAGQJx popularity = 33.7  year = 2020, inheritance = multiple, Function = 77.6923076923077
+Procedural:hhD popularity = 56.56  year = 1952  abstract_type = True, Perimeter = 650.6666666666666
+Objective:wVuIJwDkBBVyU popularity = 36.52  year = 2005, inheritance = interface, Function = 154.23076923076923
+Procedural:tSp popularity = 27.31  year = 1912  abstract_type = True, Perimeter = 637.3333333333334
+Objective:dHZieYeUdGqMtXrmIJvNtuHlZbvK popularity = 23.57  year = 1965, typization = strict, lazy count = True, Function = 70.17857142857143
+Objective:MkFIEmqinpzqVqAlmfcnhdlIFn popularity = 91.87  year = 1981, typization = dynamic, lazy count = True, Function = 76.1923076923077
+Procedural:dnLeTSMDfkiLqdsTLCDTa popularity = 26.12  year = 1914  abstract_type = True, Perimeter = 91.14285714285714
+Objective:XyssuDJSEkzg popularity = 77.84  year = 1932, typization = strict, lazy count = True, Function = 161.0
+Objective:lTfxfZ popularity = 38.57  year = 1919, inheritance = multiple, Function = 319.8333333333333
+Procedural:LxjayzkOjBYHHzpUoEVmFppmkPbGSp popularity = 71.9  year = 1917  abstract_type = True, Perimeter = 63.9
+Procedural:rSiuiZzGtLZEXNhBfKDorGgTViq popularity = 54.43  year = 1998  abstract_type = True, Perimeter = 74.0
+Procedural:HkzHHgUCfVJyEQwFjIJVue popularity = 32.4  year = 1944  abstract_type = True, Perimeter = 88.36363636363636
+Objective:MDvIdgJigpuSOmgfnFHXSekTv popularity = 79.79  year = 1916, typization = strict, lazy count = True, Function = 76.64
+Objective:pEmMTwIuPPJAOOMMb popularity = 6.62  year = 1960, typization = dynamic, lazy count = True, Function = 115.29411764705883
+Procedural:rErh popularity = 57.19  year = 2012  abstract_type = True, Perimeter = 503.0
+Objective:TuRzdfuryI popularity = 84.51  year = 1996, typization = strict, lazy count = True, Function = 199.6
+Objective:RvwYtNHzAYXoAkrjUwxLYPnbvWd popularity = 55.65  year = 1927, inheritance = interface, Function = 71.37037037037037
+Objective:bZfymVXZNiyBUJJScNsGMcxSH popularity = 45.79  year = 2018, typization = strict, lazy count = True, Function = 80.72
+Objective:bKIOElrCCucQIisnxshmIP popularity = 83.37  year = 1944, typization = dynamic, lazy count = True, Function = 88.36363636363636
+Objective:snHOVzbJDWY popularity = 22.59  year = 1979, typization = dynamic, lazy count = True, Function = 179.9090909090909
+Objective:BgIPgyjZzSBVqWscDmTomKsMninBT popularity = 99.1  year = 1975, inheritance = interface, Function = 68.10344827586206
+Objective:zwJPyoibqxPrWXoTBJNxY popularity = 35.09  year = 1979, typization = dynamic, lazy count = True, Function = 94.23809523809524
+Objective:kdFoJTwUaoMEZFfVLzXzOm popularity = 45.87  year = 1977, inheritance = single, Function = 89.86363636363636
+Objective:QZkv popularity = 96.93  year = 1906, inheritance = multiple, Function = 476.5
+Objective:YoSXgeOZmOasAqRWnLfdpoSSQZb popularity = 86.23  year = 1953, typization = dynamic, lazy count = True, Function = 72.33333333333333
+Objective:etTaKsVKLxLCOSGedQdCqreL popularity = 46.58  year = 2005, typization = dynamic, lazy count = True, Function = 83.54166666666667
+Procedural:xDHaNLIzkCpmRqCSsHGglGWwlJun popularity = 51.68  year = 1973  abstract_type = True, Perimeter = 70.46428571428571
+Procedural:uxxVilkBhNiLzrQiKnyIDyfvLZui popularity = 91.69  year = 1936  abstract_type = True, Perimeter = 69.14285714285714
+Procedural:OvYtx popularity = 45.94  year = 2004  abstract_type = True, Perimeter = 400.8
+Objective:Zeslb popularity = 10.2  year = 1935, typization = dynamic, lazy count = True, Function = 387.0
+Objective:DTt popularity = 19.81  year = 1983, typization = strict, lazy count = True, Function = 661.0
+Objective:TlgpMJUHSDROq popularity = 42.77  year = 1983, typization = strict, lazy count = True, Function = 152.53846153846155
+Procedural:rn popularity = 97.56  year = 1991  abstract_type = True, Perimeter = 995.5
+Procedural:oWioVyVBfoN popularity = 45.61  year = 1964  abstract_type = True, Perimeter = 178.54545454545453
+Objective:vQrACGOXXCPmVZjrPifihMbuNc popularity = 87.59  year = 1976, typization = dynamic, lazy count = True, Function = 76.0
+Procedural:zxiwFAHXqtxoEAuajbKrBpKMJ popularity = 15.56  year = 1925  abstract_type = True, Perimeter = 77.0
+Objective:QQldlKaPGOvgftiAMbdinyZH popularity = 7.09  year = 1916, typization = strict, lazy count = True, Function = 79.83333333333333
+Objective:GnanKeuEZn popularity = 3.33  year = 2010, inheritance = interface, Function = 201.0
+Objective:bMQQjxsttPMqxgrr popularity = 40.57  year = 2013, typization = strict, lazy count = True, Function = 125.8125
+Procedural:VTlRWAGDLvUEopfnwVWKVai popularity = 73.17  year = 1926  abstract_type = True, Perimeter = 83.73913043478261
+Objective:CGo popularity = 66.3  year = 1917, typization = strict, lazy count = True, Function = 639.0
+Procedural:LXepKCaygXPwjKCftOBeYvXZS popularity = 42.95  year = 1996  abstract_type = True, Perimeter = 79.84
+Objective:eBXa popularity = 72.42  year = 1955, inheritance = interface, Function = 488.75
+Procedural:FaVQS popularity = 7.22  year = 1961  abstract_type = True, Perimeter = 392.2
+Procedural:UblghRcXedyxbgn popularity = 84.68  year = 1947  abstract_type = True, Perimeter = 129.8
+Procedural:ADioDVQlql popularity = 87.94  year = 1959  abstract_type = True, Perimeter = 195.9
+Objective:nNfilXGFUz popularity = 2.57  year = 1997, typization = dynamic, lazy count = True, Function = 199.7
+Objective:iEFgkXB popularity = 26.77  year = 1937, typization = dynamic, lazy count = True, Function = 276.7142857142857
+Objective:JUPgVmgPL popularity = 35.75  year = 1954, inheritance = multiple, Function = 217.11111111111111
+Objective:bIiLlZLCoPhcgkzMAYgmXTSePK popularity = 19.87  year = 2000, typization = strict, lazy count = True, Function = 76.92307692307692
+Procedural:OccTbFfRayqJxtWHKtyH popularity = 80.52  year = 1941  abstract_type = True, Perimeter = 97.05
+Objective:yntMJXAVGmqgktOOEA popularity = 45.92  year = 1983, typization = dynamic, lazy count = True, Function = 110.16666666666667
+Objective:wUyXDErlMvHNgrXRo popularity = 17.95  year = 2007, inheritance = single, Function = 118.05882352941177
+Procedural:HZpJTQRvGXXGdvUJiLsnPtAjGy popularity = 22.35  year = 1930  abstract_type = True, Perimeter = 74.23076923076923
+Objective:hkBItARkETgl popularity = 57.21  year = 1941, typization = strict, lazy count = True, Function = 161.75
+Objective:kUYXAGFzBGtcpUITeEHELYNKh popularity = 54.93  year = 1936, inheritance = single, Function = 77.44
+Objective:JEnKEwvTKWCGMFcSNcyapaUZ popularity = 6.4  year = 2016, inheritance = single, Function = 84.0
+Objective:UNRQpgwTpCvATRJ popularity = 5.12  year = 1935, inheritance = multiple, Function = 129.0
+Objective:lyFlhTMXmshWxoLgycKBix popularity = 39.84  year = 1942, typization = strict, lazy count = True, Function = 88.27272727272727
+Objective:MznPLiLE popularity = 23.83  year = 2002, inheritance = multiple, Function = 250.25
+Objective:u popularity = 5.85  year = 1956, typization = dynamic, lazy count = True, Function = 1956.0
+Objective:nefkiEcfkTCCUltFys popularity = 60.9  year = 1964, inheritance = single, Function = 109.11111111111111
+Procedural:McvlscMjAPiKwCvZtxs popularity = 65.62  year = 1933  abstract_type = True, Perimeter = 101.73684210526316
+Procedural:xISt popularity = 33.48  year = 1919  abstract_type = True, Perimeter = 479.75
+Objective:FADkeLhkmeiXrVUgEfytZ popularity = 80.14  year = 1970, typization = strict, lazy count = True, Function = 93.80952380952381
+Objective:TCqEoabrYgrVYGLqaVqU popularity = 86.37  year = 1942, inheritance = single, Function = 97.1
+Objective:dhiGXwbTkUnAjLurN popularity = 52.13  year = 1955, inheritance = single, Function = 115.0
+Procedural:cOrnNmOwT popularity = 35.48  year = 1995  abstract_type = True, Perimeter = 221.66666666666666
+Objective:FO popularity = 23.52  year = 1963, inheritance = multiple, Function = 981.5
+Objective:Aouks popularity = 41.49  year = 1984, typization = dynamic, lazy count = True, Function = 396.8
+Objective:BMNSEmEN popularity = 73.59  year = 1967, typization = strict, lazy count = True, Function = 245.875
+Procedural:hKaDJ popularity = 68.57  year = 2013  abstract_type = True, Perimeter = 402.6
+Objective:tRsvLpizZNCqugolmkzwQAp popularity = 20.88  year = 2010, inheritance = single, Function = 87.3913043478261
+Objective:SYdKNe popularity = 2.18  year = 2005, inheritance = interface, Function = 334.1666666666667
+Objective:HipcFub popularity = 72.8  year = 1981, inheritance = single, Function = 283.0
+Procedural:r popularity = 1.99  year = 1998  abstract_type = True, Perimeter = 1998.0
+Objective:ZSEmLcANwJyGrRmukQXgTN popularity = 92.89  year = 1948, inheritance = interface, Function = 88.54545454545455
+Objective:wcXKmpWZMrqPbLvgwnFyjhUduewxSv popularity = 14.36  year = 1945, typization = strict, lazy count = True, Function = 64.83333333333333
+Objective:lBYpBoZdxzgsHzaFRu popularity = 44.07  year = 1935, inheritance = interface, Function = 107.5
+Objective:HsntDuEzhBbvQzawFc popularity = 98.48  year = 1934, inheritance = multiple, Function = 107.44444444444444
+Objective:YxxuiOnb popularity = 56.74  year = 1914, typization = dynamic, lazy count = True, Function = 239.25
+Objective:OdyofA popularity = 91.54  year = 2015, inheritance = interface, Function = 335.8333333333333
+Objective:vlIdLJMvEXLmbsg popularity = 67.22  year = 2019, typization = dynamic, lazy count = True, Function = 134.6
+Procedural:vMQsDfJM popularity = 68.61  year = 2003  abstract_type = True, Perimeter = 250.375
+Objective:nW popularity = 9.86  year = 1929, typization = strict, lazy count = True, Function = 964.5
+Procedural:uUEnNPdFF popularity = 74.67  year = 1958  abstract_type = True, Perimeter = 217.55555555555554
+Objective:UAJXAVCYYJZEEFQfIhswMAolIDIvL popularity = 50.54  year = 1943, typization = strict, lazy count = True, Function = 67.0
+Objective:jlTAJPe popularity = 93.72  year = 1957, inheritance = multiple, Function = 279.57142857142856
+Objective:V popularity = 13.12  year = 1963, inheritance = single, Function = 1963.0
+Objective:UisdOUKAIunCvSyMULnW popularity = 0.47  year = 1980, typization = strict, lazy count = True, Function = 99.0
+Objective:hBRjCFFHYsjXHnSkiCGpEYNuJtpn popularity = 69.55  year = 2004, inheritance = multiple, Function = 71.57142857142857
+Procedural:wVcJBxSlPMiGwaUFubbZrJAwXz popularity = 38.61  year = 1984  abstract_type = True, Perimeter = 76.3076923076923
+Objective:QZAgjihagsfuJqZyBAnbotG popularity = 50.3  year = 1918, inheritance = interface, Function = 83.3913043478261
+Objective:NzArRsIVcKXWBLTt popularity = 55.19  year = 2013, inheritance = multiple, Function = 125.8125
+Objective:HKBE popularity = 70.92  year = 2015, typization = dynamic, lazy count = True, Function = 503.75
+Procedural:HIMOHiLRzyXjOZnTUcueThUCwdT popularity = 23.93  year = 1965  abstract_type = True, Perimeter = 72.77777777777777
+Objective:isH popularity = 63.74  year = 2021, inheritance = interface, Function = 673.6666666666666
+Objective:EN popularity = 4.52  year = 1958, typization = strict, lazy count = True, Function = 979.0
+Objective:HpMQPRSGJIAnNppeXva popularity = 54.55  year = 1970, inheritance = interface, Function = 103.6842105263158
+Procedural:IQfQ popularity = 58.48  year = 1940  abstract_type = True, Perimeter = 485.0
+Objective:egGxzxOuJkmXhaor popularity = 87.81  year = 1909, typization = dynamic, lazy count = True, Function = 119.3125
+Procedural:SpdsqwtX popularity = 60.73  year = 2017  abstract_type = True, Perimeter = 252.125
+Objective:supfoGrhitOHmVAmXlIHJadztdmHHn popularity = 46.98  year = 1970, typization = dynamic, lazy count = True, Function = 65.66666666666667
+Procedural:qQz popularity = 47.56  year = 1996  abstract_type = True, Perimeter = 665.3333333333334
+Objective:bTaQzIxhJxbDO popularity = 52.95  year = 1931, typization = strict, lazy count = True, Function = 148.53846153846155
+Objective:EVtCZOCYUzERNXFfGhpDDloLhaj popularity = 58.85  year = 1918, typization = strict, lazy count = True, Function = 71.03703703703704
+Objective:toIXZijLoaYylWmxsiUaACJ popularity = 99.13  year = 2016, typization = dynamic, lazy count = True, Function = 87.65217391304348
+Objective:Wc popularity = 19.5  year = 1950, typization = dynamic, lazy count = True, Function = 975.0
+Objective:fDBpHHlWzOFyOrGOcvfAGIpjz popularity = 73.33  year = 1973, typization = dynamic, lazy count = True, Function = 78.92
+Procedural:bmKtuBcXaKhY popularity = 84.46  year = 1901  abstract_type = True, Perimeter = 158.41666666666666
+Objective:TAnnlKsQqmMHoLCFxlDap popularity = 68.06  year = 1962, inheritance = multiple, Function = 93.42857142857143
+Objective:IXMfnbOPPUweHYnDIsqsseDjuKVGow popularity = 46.15  year = 1985, inheritance = interface, Function = 66.16666666666667
+Procedural:BAqbkDAfMHTBecWnapYeFEhfpH popularity = 73.17  year = 1947  abstract_type = True, Perimeter = 74.88461538461539
+Objective:brwDaplx popularity = 28.22  year = 1924, inheritance = multiple, Function = 240.5
+Objective:zfwkWp popularity = 67.95  year = 1934, inheritance = interface, Function = 322.3333333333333
+Objective:tUKpPDHswNNDosELcJCUKXXxGdnsmK popularity = 60.39  year = 1999, typization = dynamic, lazy count = True, Function = 66.63333333333334
+Objective:LgDLK popularity = 75.48  year = 1950, inheritance = interface, Function = 390.0
+Objective:DvwqAVBhPLbCYUpbxybEUhqbK popularity = 4.82  year = 1900, inheritance = multiple, Function = 76.0
+Objective:lVSllZ popularity = 16.75  year = 1985, typization = dynamic, lazy count = True, Function = 330.8333333333333
+Objective:FcOUbKzxhQHxhyMihHbp popularity = 59.15  year = 1956, inheritance = single, Function = 97.8
+Objective:m popularity = 26.52  year = 1909, inheritance = interface, Function = 1909.0
+Objective:QkMUfBTZzZXjFpoYQfQTwd popularity = 73.63  year = 2006, inheritance = single, Function = 91.18181818181819
+Objective:RkjUiYAcSBUZrczJtgcHYtiPVTzLQ popularity = 17.51  year = 1902, typization = strict, lazy count = True, Function = 65.58620689655173
+Procedural:YhyANnUQQXQSDm popularity = 27.24  year = 1971  abstract_type = True, Perimeter = 140.78571428571428
+Objective:ulLpUumPuD popularity = 8.4  year = 1944, typization = strict, lazy count = True, Function = 194.4
+Objective:vRQRxaCfnOjQxNFNhhcbKbRmTQwR popularity = 29.1  year = 1957, inheritance = interface, Function = 69.89285714285714
+Objective:CQAxZDOYNoPMoQ popularity = 10.86  year = 1935, typization = strict, lazy count = True, Function = 138.21428571428572
+Objective:bsTGFvyMkiRTuCOIYlqtvDh popularity = 15.8  year = 1981, typization = dynamic, lazy count = True, Function = 86.1304347826087
+Procedural:LKZpBUgOEkEiYAjIBOUI popularity = 25.17  year = 1966  abstract_type = True, Perimeter = 98.3
+Objective:yKNiVsoXbJJGU popularity = 95.91  year = 1900, inheritance = multiple, Function = 146.15384615384616
+Objective:CZ popularity = 91.93  year = 2007, typization = strict, lazy count = True, Function = 1003.5
+Objective:ZZcyCIiBWaWLqdihIlBAbwxtnd popularity = 31.88  year = 1945, typization = strict, lazy count = True, Function = 74.8076923076923
+Objective:iHU popularity = 97.27  year = 1989, typization = strict, lazy count = True, Function = 663.0
+Objective:SODuvHBrYDkkUIt popularity = 76.93  year = 1940, typization = dynamic, lazy count = True, Function = 129.33333333333334
